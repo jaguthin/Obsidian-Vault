@@ -29,8 +29,8 @@
               "state": {
                 "file": "Personal/PTO comparison.loom"
               },
-              "icon": "lucide-file",
-              "title": "PTO comparison"
+              "icon": "lucide-ghost",
+              "title": "dataloom"
             }
           },
           {
@@ -41,8 +41,8 @@
               "state": {
                 "file": "Configs/Looms/Jon Money.loom"
               },
-              "icon": "lucide-file",
-              "title": "Jon Money"
+              "icon": "lucide-ghost",
+              "title": "dataloom"
             }
           },
           {
@@ -138,8 +138,8 @@
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
               "state": {},
-              "icon": "longform",
-              "title": "Longform"
+              "icon": "lucide-ghost",
+              "title": "VIEW_TYPE_LONGFORM_EXPLORER"
             }
           }
         ]
@@ -259,8 +259,19 @@
               "icon": "lucide-list",
               "title": "Outline of Nov 11"
             }
+          },
+          {
+            "id": "b5c0330de3a334bb",
+            "type": "leaf",
+            "state": {
+              "type": "tenki",
+              "state": {},
+              "icon": "sun",
+              "title": "Tenki"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       },
       {
         "id": "5cd2237920982eda",
@@ -284,7 +295,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -298,11 +308,14 @@
       "notion-like-tables:Create loom": false,
       "rpg-manager:RPG Manager": false,
       "widgets:Add widget": false,
-      "print:Print note": false
+      "print:Print note": false,
+      "obsidian-git:Open Git source control": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "a80877f84a8de27a",
+  "active": "156f5d302f985a1b",
   "lastOpenFiles": [
+    "Untitled",
     "Lists/Gratitude ( Newest first ).md",
     "Journal/2025/12/Dec 02.md",
     "Journal/2025/12/Dec 01.md",
@@ -334,7 +347,6 @@
     "Journal/2025/11/Nov 19.md",
     "Journal/2025/11/Nov 18.md",
     "Journal/2025/11/Nov 17.md",
-    "Journal/2025/11/Nov 16.md",
     "Configs/Looms/Adventures.loom",
     "Journal/2025/11",
     "Journal/2025/12",
