@@ -1,0 +1,5 @@
+- If can pull any stuff out of shed and move to basement, do.
+- Only storage stuff into shed.
+- Clean out duplicates in garden shed.
+- Anything that can go into garden shed moved into there.
+- 

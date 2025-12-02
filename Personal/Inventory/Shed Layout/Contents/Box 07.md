@@ -1,0 +1,8 @@
+- Dremel
+- Dremel Attachments
+- Wood Blocks
+- Tack Cloth
+- Notebook
+- Large Color Wheel
+- Brush Rack
+- 

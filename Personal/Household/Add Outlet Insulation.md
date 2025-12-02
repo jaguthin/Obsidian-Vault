@@ -1,0 +1,11 @@
+- Laundry Room
+- Jon's Room
+- Basement
+- Office
+- Indhira's Room
+- Allie's Room
+- Master Bathroom
+- Master Bedroom
+- Kitchen
+- Living Room
+- Dining Room

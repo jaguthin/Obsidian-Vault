@@ -1,0 +1,124 @@
+{
+  "schema": "0.2",
+  "settings": {
+    "enabledLanguages": [
+      "LATIN"
+    ],
+    "dailyWritingGoal": 500,
+    "startOfTheWeek": "SUNDAY",
+    "heatmapNavigation": true,
+    "heatmapConfig": {
+      "roundCells": true,
+      "hideMonthLabels": false,
+      "hideWeekdayLabels": false,
+      "intensityMode": "gradual",
+      "intensityStops": {
+        "low": 100,
+        "medium": 500,
+        "high": 1000
+      },
+      "colors": {
+        "light": {
+          "0": "#e0e0e0",
+          "1": "#9be9a8",
+          "2": "#6ad286",
+          "3": "#2ebd54",
+          "4": "#12a53e"
+        },
+        "dark": {
+          "0": "#ebedf015",
+          "1": "#0e4429",
+          "2": "#006d32",
+          "3": "#26a641",
+          "4": "#39d353"
+        }
+      }
+    },
+    "sidebarConfig": {
+      "visibility": {
+        "showSlots": true,
+        "showEntries": true,
+        "showHeatmap": true
+      },
+      "slots": [
+        {
+          "index": 0,
+          "option": "CURRENT_DAY",
+          "unit": "WORD",
+          "calc": "TOTAL"
+        },
+        {
+          "index": 1,
+          "option": "CURRENT_WEEK",
+          "unit": "WORD",
+          "calc": "TOTAL"
+        },
+        {
+          "index": 2,
+          "option": "LAST_MONTH",
+          "unit": "WORD",
+          "calc": "AVG"
+        }
+      ]
+    }
+  },
+  "stats": {
+    "dailyActivity": [
+      {
+        "date": "2025-11-09",
+        "filePath": "Journal/2025/11/Nov 08.md",
+        "wordCountStart": 231,
+        "charCountStart": 1295,
+        "changes": [
+          {
+            "timeKey": "16:25",
+            "w": 122,
+            "c": 543
+          },
+          {
+            "timeKey": "16:30",
+            "w": 41,
+            "c": 217
+          },
+          {
+            "timeKey": "16:35",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 571
+      },
+      {
+        "date": "2025-11-09",
+        "filePath": "Journal/2025/11/Nov 05.md",
+        "wordCountStart": 286,
+        "charCountStart": 1565,
+        "changes": [],
+        "id": 572
+      },
+      {
+        "date": "2025-11-09",
+        "filePath": "Journal/2025/11/Nov 04.md",
+        "wordCountStart": 217,
+        "charCountStart": 1225,
+        "changes": [],
+        "id": 573
+      },
+      {
+        "date": "2025-11-09",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 812,
+        "charCountStart": 5830,
+        "changes": [
+          {
+            "timeKey": "16:30",
+            "w": 6,
+            "c": 41
+          }
+        ],
+        "id": 574
+      }
+    ],
+    "daysWithCompletedGoal": []
+  }
+}

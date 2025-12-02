@@ -1,0 +1,46 @@
+- [x] Paint wendigo ✅ 2025-08-17
+- [ ] Paint and assemble lady death
+- [ ] Spruce up resume
+- [ ] look for new job.
+- [ ] Continue to learn AWS and get certified.
+- [x] Add to kickstarter obsidian page. ✅ 2025-07-13
+- [ ] TEST AWS LoadBalancer with 2 Web Servers that have a different web page.
+- [ ] Nginx reverse proxy and LB in AWS.
+- [ ] Paint Cheech Wizard
+- [ ] Paint Hill Giant
+- [ ] Paint Shambling Mound
+- [ ] Assemble Giant
+- [ ] Assemble Baba Yaga House - Large 
+- [ ] Assemble Apocalypse House
+- [ ] Build vardo
+- [ ] Build Tiny House
+- [ ] Buy plot of land
+- [ ] Get rid of stuff
+- [ ] Learn and play mausritter
+- [ ] Paint Aftermath game
+- [ ] Paint O Brother Where Art Thou game
+- [ ] Learn NixOS
+- [ ] Learn jupiter switches and os
+- [ ] Visit all 50 States
+- [ ] Visit Europe
+- [ ] Wash house
+- [ ] Get rid of unneeded graphics tablet
+- [ ] Learn to play banjo
+- [ ] Learn to play harmonica
+- [ ] Learn how to juggle
+- [ ] Learn blender
+- [ ] Learn Krita
+- [ ] Repair driveway
+- [ ] Read Atomic Habits
+- [ ] Build paper Mayflower. 
+- [ ] Paint large Odin bust
+- [ ] Paint Heavy Metal Ship
+- [ ] Paint GW Banshee
+- [ ] Paint The Hobbit
+- [ ] Paint Earthworm Jim
+- [ ] Build Stitch
+- [ ] Build Santa the Hutt
+- [ ] Build Calvin & Hobbes on Sled
+- [ ] Build Frankenstein Bust
+- [ ] Paint Lady Death
+

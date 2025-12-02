@@ -1,0 +1,12 @@
+
+---
+- ~~Mount new backup drive.~~
+- Copy all data from old to new.
+- ~~Verify backups works~~.
+- ~~umount old backup~~
+-  ~~comment old backup out of fstab~~
+- ~~Shutdown old backup~~
+- ~~Move old backup into closet~~
+- ~~Reboot and make sure new one mounts automatically.~~
+-  ~~Set up iscsi to not auto start.~~ 
+- 

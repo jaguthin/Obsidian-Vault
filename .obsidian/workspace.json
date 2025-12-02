@@ -1,0 +1,348 @@
+{
+  "main": {
+    "id": "c6ee70bb90b448c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "73e408925b6fc068",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33ee4327f6a46ecd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lists/Gratitude ( Newest first ).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gratitude ( Newest first )"
+            }
+          },
+          {
+            "id": "044b4ae76383a667",
+            "type": "leaf",
+            "state": {
+              "type": "dataloom",
+              "state": {
+                "file": "Personal/PTO comparison.loom"
+              },
+              "icon": "lucide-file",
+              "title": "PTO comparison"
+            }
+          },
+          {
+            "id": "f9e472bdeb30c64a",
+            "type": "leaf",
+            "state": {
+              "type": "dataloom",
+              "state": {
+                "file": "Configs/Looms/Jon Money.loom"
+              },
+              "icon": "lucide-file",
+              "title": "Jon Money"
+            }
+          },
+          {
+            "id": "70292da885891da3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Learning/Blender.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Blender"
+            }
+          },
+          {
+            "id": "795735af7f88dbdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Finance & Age Goals/For the kids.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "For the kids"
+            }
+          },
+          {
+            "id": "a80877f84a8de27a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2025/12/Dec 02.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dec 02"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b58bfbce2981ee7",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0b5c6d686350dbc",
+        "type": "tabs",
+        "dimension": 75.3315649867374,
+        "children": [
+          {
+            "id": "156f5d302f985a1b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "52be9f2dad444795",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6b074f0542da8c55",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4766fe3f4e63ade5",
+        "type": "tabs",
+        "dimension": 24.668435013262595,
+        "children": [
+          {
+            "id": "cec46ecbbb6eac46",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262
+  },
+  "right": {
+    "id": "456d370bea752a5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7b33a658ae40f39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb776a84b0ece9e8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "7ba4e48e7497bed1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Journal/2025/11/Nov 11.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Nov 11"
+            }
+          },
+          {
+            "id": "8d060b21b7cacc45",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Journal/2025/11/Nov 11.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Nov 11"
+            }
+          },
+          {
+            "id": "825f43f1be1fed34",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d5edc0028be56a48",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "904ab2aa14448b68",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Journal/2025/11/Nov 11.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Nov 11"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5cd2237920982eda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01a4b6a794d19ec6",
+            "type": "leaf",
+            "state": {
+              "type": "tenki",
+              "state": {},
+              "icon": "sun",
+              "title": "Tenki"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 317
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "notion-like-tables:Create loom": false,
+      "rpg-manager:RPG Manager": false,
+      "widgets:Add widget": false,
+      "print:Print note": false
+    }
+  },
+  "active": "a80877f84a8de27a",
+  "lastOpenFiles": [
+    "Lists/Gratitude ( Newest first ).md",
+    "Journal/2025/12/Dec 02.md",
+    "Journal/2025/12/Dec 01.md",
+    "Personal/PTO comparison.loom",
+    "Configs/Looms/Jon Money.loom",
+    "Personal/Finance & Age Goals/For the kids.md",
+    "Configs/Looms/Fiancial Spreadsheet.loom",
+    "Journal/2025/11/Nov 30.md",
+    "Journal/2025/11/Nov 29.md",
+    "Configs/Looms/R2-D2.loom",
+    "Journal/2025/11/Nov 28.md",
+    "Personal/Learning/Blender.md",
+    "Personal/Bills and Income.loom",
+    "Personal/Simple Blender Projects.md",
+    "Personal/Task List.md",
+    "Personal/Task Management.md",
+    "Personal/Technical stuff to try.md",
+    "Personal/To Pack.md",
+    "Personal/To Save Money.md",
+    "Configs/Looms/Untitled.loom",
+    "Journal/2025/11/Nov 27.md",
+    "Journal/2025/11/Nov 26.md",
+    "Journal/2025/11/Nov 25.md",
+    "Journal/2025/11/Nov 24.md",
+    "Journal/2025/11/Nov 23.md",
+    "Journal/2025/11/Nov 22.md",
+    "Journal/2025/11/Nov 21.md",
+    "Journal/2025/11/Nov 20.md",
+    "Journal/2025/11/Nov 19.md",
+    "Journal/2025/11/Nov 18.md",
+    "Journal/2025/11/Nov 17.md",
+    "Journal/2025/11/Nov 16.md",
+    "Configs/Looms/Adventures.loom",
+    "Journal/2025/11",
+    "Journal/2025/12",
+    "Personal/Household/Basement",
+    "Personal/Projects/Models to Build/More Info/Banshee.canvas",
+    "Personal/Projects/Models to Build/More Info/Calvin & Hobbes on sled.canvas",
+    "Personal/Projects/Models to Build/More Info/Frankenstein's Monster.canvas",
+    "Personal/Projects/Models to Build/More Info/Heavy Metal Ship.canvas",
+    "Personal/Projects/Models to Build/More Info/Santa the Hutt.canvas"
+  ]
+}

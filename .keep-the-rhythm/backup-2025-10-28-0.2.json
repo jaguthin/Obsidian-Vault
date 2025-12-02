@@ -1,0 +1,6736 @@
+{
+  "schema": "0.2",
+  "settings": {
+    "enabledLanguages": [
+      "LATIN"
+    ],
+    "dailyWritingGoal": 500,
+    "startOfTheWeek": "SUNDAY",
+    "heatmapNavigation": true,
+    "heatmapConfig": {
+      "roundCells": true,
+      "hideMonthLabels": false,
+      "hideWeekdayLabels": false,
+      "intensityMode": "gradual",
+      "intensityStops": {
+        "low": 100,
+        "medium": 500,
+        "high": 1000
+      },
+      "colors": {
+        "light": {
+          "0": "#e0e0e0",
+          "1": "#9be9a8",
+          "2": "#6ad286",
+          "3": "#2ebd54",
+          "4": "#12a53e"
+        },
+        "dark": {
+          "0": "#ebedf015",
+          "1": "#0e4429",
+          "2": "#006d32",
+          "3": "#26a641",
+          "4": "#39d353"
+        }
+      }
+    },
+    "sidebarConfig": {
+      "visibility": {
+        "showSlots": true,
+        "showEntries": true,
+        "showHeatmap": true
+      },
+      "slots": [
+        {
+          "index": 0,
+          "option": "CURRENT_DAY",
+          "unit": "WORD",
+          "calc": "TOTAL"
+        },
+        {
+          "index": 1,
+          "option": "CURRENT_WEEK",
+          "unit": "WORD",
+          "calc": "TOTAL"
+        },
+        {
+          "index": 2,
+          "option": "LAST_MONTH",
+          "unit": "WORD",
+          "calc": "AVG"
+        }
+      ]
+    }
+  },
+  "stats": {
+    "currentStreak": 0,
+    "highestStreak": 0,
+    "highestStreakStartDate": "",
+    "highestStreakEndDate": "",
+    "daysWithCompletedGoal": [
+      "2025-07-05",
+      "2025-07-06",
+      "2025-07-09",
+      "2025-07-10",
+      "2025-07-11",
+      "2025-07-13",
+      "2025-07-15"
+    ],
+    "dailyActivity": [
+      {
+        "date": "2025-07-04",
+        "filePath": "Journal/2025/07/Jul 04.md",
+        "wordCountStart": 94,
+        "charCountStart": 642,
+        "changes": [
+          {
+            "timeKey": "19:15",
+            "w": 24,
+            "c": 115
+          },
+          {
+            "timeKey": "19:20",
+            "w": 31,
+            "c": 147
+          },
+          {
+            "timeKey": "19:30",
+            "w": 8,
+            "c": 43
+          },
+          {
+            "timeKey": "19:35",
+            "w": 176,
+            "c": 841
+          },
+          {
+            "timeKey": "19:40",
+            "w": 210,
+            "c": 1021
+          },
+          {
+            "timeKey": "19:45",
+            "w": 1,
+            "c": 7
+          }
+        ],
+        "id": 1
+      },
+      {
+        "date": "2025-07-04",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 3,
+        "charCountStart": 30,
+        "changes": [
+          {
+            "timeKey": "19:15",
+            "w": 15,
+            "c": 94
+          }
+        ],
+        "id": 2
+      },
+      {
+        "date": "2025-07-04",
+        "filePath": "Personal/Books/Banned Books.loom",
+        "wordCountStart": 7783,
+        "charCountStart": 126835,
+        "changes": [],
+        "id": 3
+      },
+      {
+        "date": "2025-07-05",
+        "filePath": "Journal/2025/07/Jul 04.md",
+        "wordCountStart": 544,
+        "charCountStart": 2816,
+        "changes": [],
+        "id": 4
+      },
+      {
+        "date": "2025-07-05",
+        "filePath": "Journal/2025/07/Jul 05.md",
+        "wordCountStart": 94,
+        "charCountStart": 642,
+        "changes": [
+          {
+            "timeKey": "11:25",
+            "w": 27,
+            "c": 126
+          },
+          {
+            "timeKey": "11:30",
+            "w": 153,
+            "c": 720
+          },
+          {
+            "timeKey": "11:35",
+            "w": 42,
+            "c": 199
+          },
+          {
+            "timeKey": "11:40",
+            "w": 12,
+            "c": 58
+          },
+          {
+            "timeKey": "11:45",
+            "w": 122,
+            "c": 579
+          },
+          {
+            "timeKey": "11:50",
+            "w": 92,
+            "c": 479
+          }
+        ],
+        "id": 5
+      },
+      {
+        "date": "2025-07-05",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 18,
+        "charCountStart": 124,
+        "changes": [
+          {
+            "timeKey": "11:25",
+            "w": 13,
+            "c": 80
+          }
+        ],
+        "id": 6
+      },
+      {
+        "date": "2025-07-05",
+        "filePath": "Personal/Campaigns/Threa.md",
+        "wordCountStart": 21,
+        "charCountStart": 232,
+        "changes": [
+          {
+            "timeKey": "11:35",
+            "w": -5,
+            "c": -42
+          },
+          {
+            "timeKey": "11:40",
+            "w": 33,
+            "c": 182
+          }
+        ],
+        "id": 7
+      },
+      {
+        "date": "2025-07-05",
+        "filePath": "Personal/Writing/Untitled.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "11:40",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 8
+      },
+      {
+        "date": "2025-07-05",
+        "filePath": "Personal/Writing/Stories/The Survivalist/Index.md",
+        "wordCountStart": 14,
+        "charCountStart": 138,
+        "changes": [],
+        "id": 9
+      },
+      {
+        "date": "2025-07-05",
+        "filePath": "Personal/Learning/Languages/German.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 10
+      },
+      {
+        "date": "2025-07-05",
+        "filePath": "Configs/Archived/Tasks.md",
+        "wordCountStart": 107,
+        "charCountStart": 548,
+        "changes": [],
+        "id": 11
+      },
+      {
+        "date": "2025-07-05",
+        "filePath": "Configs/Templates/Journal/Daily.md",
+        "wordCountStart": 93,
+        "charCountStart": 651,
+        "changes": [
+          {
+            "timeKey": "11:50",
+            "w": 18,
+            "c": 108
+          },
+          {
+            "timeKey": "11:55",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 12
+      },
+      {
+        "date": "2025-07-05",
+        "filePath": "Personal/Learning/Languages/Vietnamese.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 13
+      },
+      {
+        "date": "2025-07-05",
+        "filePath": "Personal/Household/Breakers.md",
+        "wordCountStart": 7,
+        "charCountStart": 44,
+        "changes": [],
+        "id": 14
+      },
+      {
+        "date": "2025-07-05",
+        "filePath": "Personal/Learning/Languages/Spanish.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 15
+      },
+      {
+        "date": "2025-07-05",
+        "filePath": "Configs/Templates/Journal/Spanish..md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "11:55",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 16
+      },
+      {
+        "date": "2025-07-05",
+        "filePath": "Personal/Books/Banned Books.loom",
+        "wordCountStart": 8976,
+        "charCountStart": 146481,
+        "changes": [],
+        "id": 17
+      },
+      {
+        "date": "2025-07-06",
+        "filePath": "Journal/2025/07/Jul 06.md",
+        "wordCountStart": 112,
+        "charCountStart": 751,
+        "changes": [
+          {
+            "timeKey": "12:05",
+            "w": 2,
+            "c": 12
+          },
+          {
+            "timeKey": "18:45",
+            "w": 162,
+            "c": 780
+          },
+          {
+            "timeKey": "18:50",
+            "w": 212,
+            "c": 1054
+          },
+          {
+            "timeKey": "18:55",
+            "w": 58,
+            "c": 309
+          }
+        ],
+        "id": 18
+      },
+      {
+        "date": "2025-07-06",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 31,
+        "charCountStart": 204,
+        "changes": [
+          {
+            "timeKey": "08:45",
+            "w": 4,
+            "c": 26
+          }
+        ],
+        "id": 19
+      },
+      {
+        "date": "2025-07-06",
+        "filePath": "Personal/Household/Hobby Stuff.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:05",
+            "w": 49,
+            "c": 327
+          },
+          {
+            "timeKey": "12:10",
+            "w": 15,
+            "c": 118
+          },
+          {
+            "timeKey": "12:15",
+            "w": 3,
+            "c": 37
+          },
+          {
+            "timeKey": "12:20",
+            "w": -6,
+            "c": -61
+          }
+        ],
+        "id": 20
+      },
+      {
+        "date": "2025-07-06",
+        "filePath": "Personal/Learning/Godot.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:35",
+            "w": 22,
+            "c": 111
+          }
+        ],
+        "id": 21
+      },
+      {
+        "date": "2025-07-06",
+        "filePath": "Personal/Projects/Models to Build/More Info/Santa the Hutt.canvas",
+        "wordCountStart": 204,
+        "charCountStart": 1707,
+        "changes": [],
+        "id": 30
+      },
+      {
+        "date": "2025-07-06",
+        "filePath": "Configs/Attachments/1f9543cc8dd60b77596451a5a514b69e--jabba-the-hutt-boba-fett-1040565520.jpg",
+        "wordCountStart": 18838,
+        "charCountStart": 87316,
+        "changes": [],
+        "id": 31
+      },
+      {
+        "date": "2025-07-06",
+        "filePath": "Personal/Projects/Models to Build/More Info/Heavy Metal Ship.canvas",
+        "wordCountStart": 128,
+        "charCountStart": 1082,
+        "changes": [],
+        "id": 32
+      },
+      {
+        "date": "2025-07-06",
+        "filePath": "Personal/Projects/Models to Build/More Info/Frankenstein's Monster.canvas",
+        "wordCountStart": 91,
+        "charCountStart": 697,
+        "changes": [],
+        "id": 33
+      },
+      {
+        "date": "2025-07-06",
+        "filePath": "Personal/Projects/Models to Build/More Info/Calvin & Hobbes on sled.canvas",
+        "wordCountStart": 39,
+        "charCountStart": 338,
+        "changes": [],
+        "id": 34
+      },
+      {
+        "date": "2025-07-06",
+        "filePath": "Personal/Projects/Models to Build/More Info/Banshee.canvas",
+        "wordCountStart": 78,
+        "charCountStart": 615,
+        "changes": [],
+        "id": 35
+      },
+      {
+        "date": "2025-07-06",
+        "filePath": "Personal/Projects/Models to Build/More Info/Aboleth.md",
+        "wordCountStart": 13,
+        "charCountStart": 70,
+        "changes": [],
+        "id": 36
+      },
+      {
+        "date": "2025-07-07",
+        "filePath": "Journal/2025/07/Jul 06.md",
+        "wordCountStart": 546,
+        "charCountStart": 2906,
+        "changes": [],
+        "id": 37
+      },
+      {
+        "date": "2025-07-07",
+        "filePath": "Personal/Projects/Models to Build/More Info/Aboleth.md",
+        "wordCountStart": 13,
+        "charCountStart": 70,
+        "changes": [
+          {
+            "timeKey": "07:55",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 38
+      },
+      {
+        "date": "2025-07-07",
+        "filePath": "Journal/2025/07/Jul 07.md",
+        "wordCountStart": 112,
+        "charCountStart": 751,
+        "changes": [
+          {
+            "timeKey": "07:55",
+            "w": 2,
+            "c": 12
+          },
+          {
+            "timeKey": "08:00",
+            "w": 37,
+            "c": 149
+          },
+          {
+            "timeKey": "08:05",
+            "w": 61,
+            "c": 291
+          }
+        ],
+        "id": 39
+      },
+      {
+        "date": "2025-07-07",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 35,
+        "charCountStart": 230,
+        "changes": [
+          {
+            "timeKey": "07:55",
+            "w": 5,
+            "c": 56
+          }
+        ],
+        "id": 40
+      },
+      {
+        "date": "2025-07-07",
+        "filePath": "Personal/Writing/Stories/The Survivalist/Index.md",
+        "wordCountStart": 14,
+        "charCountStart": 138,
+        "changes": [],
+        "id": 41
+      },
+      {
+        "date": "2025-07-07",
+        "filePath": "Personal/Household/Stuff to get done.md",
+        "wordCountStart": 151,
+        "charCountStart": 862,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": 7,
+            "c": 44
+          },
+          {
+            "timeKey": "19:30",
+            "w": 9,
+            "c": 53
+          }
+        ],
+        "id": 42
+      },
+      {
+        "date": "2025-07-07",
+        "filePath": "Personal/Household/Heater Covers.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 43
+      },
+      {
+        "date": "2025-07-07",
+        "filePath": "Personal/Household/Shed Setup.md",
+        "wordCountStart": 34,
+        "charCountStart": 193,
+        "changes": [],
+        "id": 44
+      },
+      {
+        "date": "2025-07-07",
+        "filePath": "Personal/Household/Add Outlet Insulation.md",
+        "wordCountStart": 22,
+        "charCountStart": 152,
+        "changes": [],
+        "id": 45
+      },
+      {
+        "date": "2025-07-07",
+        "filePath": "Personal/Household/Basement Setup.md",
+        "wordCountStart": 155,
+        "charCountStart": 868,
+        "changes": [],
+        "id": 46
+      },
+      {
+        "date": "2025-07-07",
+        "filePath": "Configs/Looms/Jon Money.loom",
+        "wordCountStart": 244,
+        "charCountStart": 3840,
+        "changes": [],
+        "id": 47
+      },
+      {
+        "date": "2025-07-07",
+        "filePath": "Personal/Household/Hobby Stuff.md",
+        "wordCountStart": 61,
+        "charCountStart": 421,
+        "changes": [],
+        "id": 48
+      },
+      {
+        "date": "2025-07-07",
+        "filePath": "Personal/Learning/Godot.md",
+        "wordCountStart": 22,
+        "charCountStart": 111,
+        "changes": [],
+        "id": 49
+      },
+      {
+        "date": "2025-07-08",
+        "filePath": "Journal/2025/07/Jul 08.md",
+        "wordCountStart": 112,
+        "charCountStart": 751,
+        "changes": [
+          {
+            "timeKey": "19:25",
+            "w": 194,
+            "c": 943
+          },
+          {
+            "timeKey": "19:30",
+            "w": 53,
+            "c": 207
+          },
+          {
+            "timeKey": "19:45",
+            "w": 132,
+            "c": 607
+          },
+          {
+            "timeKey": "19:50",
+            "w": 36,
+            "c": 144
+          }
+        ],
+        "id": 50
+      },
+      {
+        "date": "2025-07-08",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 40,
+        "charCountStart": 286,
+        "changes": [
+          {
+            "timeKey": "19:25",
+            "w": 4,
+            "c": 35
+          }
+        ],
+        "id": 51
+      },
+      {
+        "date": "2025-07-08",
+        "filePath": "Configs/Templates/Journal/Daily.md",
+        "wordCountStart": 111,
+        "charCountStart": 760,
+        "changes": [
+          {
+            "timeKey": "19:30",
+            "w": -15,
+            "c": -93
+          }
+        ],
+        "id": 52
+      },
+      {
+        "date": "2025-07-08",
+        "filePath": "Journal/2025/07/Jul 07.md",
+        "wordCountStart": 212,
+        "charCountStart": 1203,
+        "changes": [
+          {
+            "timeKey": "19:45",
+            "w": -18,
+            "c": -109
+          }
+        ],
+        "id": 53
+      },
+      {
+        "date": "2025-07-09",
+        "filePath": "Journal/2025/07/Jul 09.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "19:25",
+            "w": 139,
+            "c": 636
+          },
+          {
+            "timeKey": "19:30",
+            "w": 168,
+            "c": 767
+          },
+          {
+            "timeKey": "19:35",
+            "w": 104,
+            "c": 493
+          },
+          {
+            "timeKey": "19:40",
+            "w": 52,
+            "c": 265
+          },
+          {
+            "timeKey": "19:45",
+            "w": 4,
+            "c": 19
+          }
+        ],
+        "id": 54
+      },
+      {
+        "date": "2025-07-09",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 44,
+        "charCountStart": 321,
+        "changes": [
+          {
+            "timeKey": "19:25",
+            "w": 3,
+            "c": 22
+          }
+        ],
+        "id": 55
+      },
+      {
+        "date": "2025-07-09",
+        "filePath": "Personal/Writing/Stories/The Survivalist/Index.md",
+        "wordCountStart": 14,
+        "charCountStart": 138,
+        "changes": [],
+        "id": 56
+      },
+      {
+        "date": "2025-07-09",
+        "filePath": "Personal/Writing/Stories/Untitled area./Untitled area..md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:45",
+            "w": 35,
+            "c": 171
+          }
+        ],
+        "id": 57
+      },
+      {
+        "date": "2025-07-09",
+        "filePath": "Personal/Learning/Languages/German.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 58
+      },
+      {
+        "date": "2025-07-10",
+        "filePath": "Journal/2025/07/Jul 10.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "08:50",
+            "w": 53,
+            "c": 233
+          },
+          {
+            "timeKey": "08:55",
+            "w": 211,
+            "c": 991
+          },
+          {
+            "timeKey": "09:00",
+            "w": 118,
+            "c": 552
+          },
+          {
+            "timeKey": "09:50",
+            "w": 47,
+            "c": 213
+          },
+          {
+            "timeKey": "13:20",
+            "w": 73,
+            "c": 357
+          },
+          {
+            "timeKey": "13:45",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 59
+      },
+      {
+        "date": "2025-07-10",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 47,
+        "charCountStart": 343,
+        "changes": [
+          {
+            "timeKey": "08:50",
+            "w": 3,
+            "c": 28
+          }
+        ],
+        "id": 60
+      },
+      {
+        "date": "2025-07-10",
+        "filePath": "Personal/Learning/Languages/German.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 61
+      },
+      {
+        "date": "2025-07-10",
+        "filePath": "Personal/Writing/Stories/Untitled area./Untitled area..md",
+        "wordCountStart": 35,
+        "charCountStart": 171,
+        "changes": [],
+        "id": 62
+      },
+      {
+        "date": "2025-07-11",
+        "filePath": "Personal/Kickstart Stuff/Got it!.md",
+        "wordCountStart": 2064,
+        "charCountStart": 10755,
+        "changes": [],
+        "id": 65
+      },
+      {
+        "date": "2025-07-11",
+        "filePath": "Personal/Technical stuff to try.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "09:55",
+            "w": 232,
+            "c": 1712
+          },
+          {
+            "timeKey": "10:00",
+            "w": -201,
+            "c": -1521
+          },
+          {
+            "timeKey": "10:05",
+            "w": 3,
+            "c": 20
+          },
+          {
+            "timeKey": "10:45",
+            "w": 5,
+            "c": 22
+          },
+          {
+            "timeKey": "10:50",
+            "w": 6,
+            "c": 31
+          },
+          {
+            "timeKey": "11:00",
+            "w": 8,
+            "c": 36
+          },
+          {
+            "timeKey": "11:10",
+            "w": 7,
+            "c": 42
+          }
+        ],
+        "id": 66
+      },
+      {
+        "date": "2025-07-11",
+        "filePath": "Personal/Writing/Stories/Untitled area./Untitled area..md",
+        "wordCountStart": 35,
+        "charCountStart": 171,
+        "changes": [],
+        "id": 67
+      },
+      {
+        "date": "2025-07-11",
+        "filePath": "Journal/2025/07/Jul 11.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "13:35",
+            "w": 58,
+            "c": 305
+          },
+          {
+            "timeKey": "13:40",
+            "w": 34,
+            "c": 155
+          },
+          {
+            "timeKey": "14:05",
+            "w": 198,
+            "c": 920
+          },
+          {
+            "timeKey": "14:10",
+            "w": 168,
+            "c": 773
+          },
+          {
+            "timeKey": "15:05",
+            "w": 11,
+            "c": 58
+          },
+          {
+            "timeKey": "18:15",
+            "w": 29,
+            "c": 144
+          }
+        ],
+        "id": 68
+      },
+      {
+        "date": "2025-07-11",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 50,
+        "charCountStart": 371,
+        "changes": [
+          {
+            "timeKey": "10:50",
+            "w": 3,
+            "c": 27
+          }
+        ],
+        "id": 69
+      },
+      {
+        "date": "2025-07-12",
+        "filePath": "Personal/Household/Stuff to get done.md",
+        "wordCountStart": 167,
+        "charCountStart": 959,
+        "changes": [],
+        "id": 70
+      },
+      {
+        "date": "2025-07-12",
+        "filePath": "Journal/2025/07/Jul 12.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "07:15",
+            "w": 2,
+            "c": 12
+          },
+          {
+            "timeKey": "16:05",
+            "w": 65,
+            "c": 311
+          },
+          {
+            "timeKey": "16:10",
+            "w": 52,
+            "c": 227
+          }
+        ],
+        "id": 71
+      },
+      {
+        "date": "2025-07-12",
+        "filePath": "Journal/2025/07/Jul 11.md",
+        "wordCountStart": 597,
+        "charCountStart": 3026,
+        "changes": [
+          {
+            "timeKey": "07:10",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 72
+      },
+      {
+        "date": "2025-07-12",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 53,
+        "charCountStart": 398,
+        "changes": [
+          {
+            "timeKey": "07:10",
+            "w": 1,
+            "c": 5
+          },
+          {
+            "timeKey": "07:15",
+            "w": 4,
+            "c": 36
+          }
+        ],
+        "id": 73
+      },
+      {
+        "date": "2025-07-13",
+        "filePath": "Journal/2025/07/Jul 13.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "11:30",
+            "w": 2,
+            "c": 12
+          },
+          {
+            "timeKey": "12:20",
+            "w": 156,
+            "c": 777
+          },
+          {
+            "timeKey": "12:25",
+            "w": 201,
+            "c": 974
+          },
+          {
+            "timeKey": "12:30",
+            "w": 139,
+            "c": 689
+          }
+        ],
+        "id": 74
+      },
+      {
+        "date": "2025-07-13",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 58,
+        "charCountStart": 439,
+        "changes": [
+          {
+            "timeKey": "11:30",
+            "w": 6,
+            "c": 42
+          }
+        ],
+        "id": 75
+      },
+      {
+        "date": "2025-07-13",
+        "filePath": "Personal/Task Management.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "11:30",
+            "w": 1,
+            "c": 6
+          },
+          {
+            "timeKey": "11:35",
+            "w": 17,
+            "c": 237
+          },
+          {
+            "timeKey": "11:40",
+            "w": 26,
+            "c": 258
+          },
+          {
+            "timeKey": "11:55",
+            "w": 66,
+            "c": 358
+          },
+          {
+            "timeKey": "12:00",
+            "w": 19,
+            "c": 122
+          },
+          {
+            "timeKey": "12:05",
+            "w": 40,
+            "c": 259
+          }
+        ],
+        "id": 76
+      },
+      {
+        "date": "2025-07-13",
+        "filePath": "Journal/2025/07/Jul 12.md",
+        "wordCountStart": 216,
+        "charCountStart": 1208,
+        "changes": [],
+        "id": 79
+      },
+      {
+        "date": "2025-07-13",
+        "filePath": "Configs/Looms/Fiancial Spreadsheet.loom",
+        "wordCountStart": 1112,
+        "charCountStart": 18910,
+        "changes": [],
+        "id": 80
+      },
+      {
+        "date": "2025-07-13",
+        "filePath": "Configs/Templates/Journal/Daily.md",
+        "wordCountStart": 96,
+        "charCountStart": 667,
+        "changes": [],
+        "id": 81
+      },
+      {
+        "date": "2025-07-13",
+        "filePath": "Personal/Task List.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:50",
+            "w": 32,
+            "c": 206
+          }
+        ],
+        "id": 82
+      },
+      {
+        "date": "2025-07-13",
+        "filePath": "Configs/Looms/Jon Money.loom",
+        "wordCountStart": 244,
+        "charCountStart": 3840,
+        "changes": [],
+        "id": 83
+      },
+      {
+        "date": "2025-07-13",
+        "filePath": "Personal/Jon Money.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:55",
+            "w": 3,
+            "c": 22
+          }
+        ],
+        "id": 84
+      },
+      {
+        "date": "2025-07-13",
+        "filePath": "Personal/Finance & Age Goals/For the kids.md",
+        "wordCountStart": 407,
+        "charCountStart": 2440,
+        "changes": [],
+        "id": 85
+      },
+      {
+        "date": "2025-07-14",
+        "filePath": "Personal/Jon Money.md",
+        "wordCountStart": 3,
+        "charCountStart": 22,
+        "changes": [],
+        "id": 86
+      },
+      {
+        "date": "2025-07-14",
+        "filePath": "Personal/Inventory/Work Backpack Inventory.md",
+        "wordCountStart": 38,
+        "charCountStart": 260,
+        "changes": [
+          {
+            "timeKey": "20:00",
+            "w": 3,
+            "c": 19
+          }
+        ],
+        "id": 87
+      },
+      {
+        "date": "2025-07-14",
+        "filePath": "Personal/Inventory/Shed Layout/Contents/Box 01.md",
+        "wordCountStart": 40,
+        "charCountStart": 287,
+        "changes": [],
+        "id": 88
+      },
+      {
+        "date": "2025-07-14",
+        "filePath": "Personal/Inventory/Shed Layout/Contents/Box 02.md",
+        "wordCountStart": 7,
+        "charCountStart": 56,
+        "changes": [],
+        "id": 89
+      },
+      {
+        "date": "2025-07-14",
+        "filePath": "Personal/Inventory/Shed Layout/Contents/Box 03.md",
+        "wordCountStart": 16,
+        "charCountStart": 120,
+        "changes": [],
+        "id": 90
+      },
+      {
+        "date": "2025-07-14",
+        "filePath": "Personal/Inventory/Shed Layout/Contents/Box 04.md",
+        "wordCountStart": 4,
+        "charCountStart": 29,
+        "changes": [],
+        "id": 91
+      },
+      {
+        "date": "2025-07-14",
+        "filePath": "Personal/Inventory/Shed Layout/Contents/Box 05.md",
+        "wordCountStart": 5,
+        "charCountStart": 40,
+        "changes": [],
+        "id": 92
+      },
+      {
+        "date": "2025-07-14",
+        "filePath": "Personal/Inventory/Shed Layout/Contents/Box 06.md",
+        "wordCountStart": 10,
+        "charCountStart": 66,
+        "changes": [],
+        "id": 93
+      },
+      {
+        "date": "2025-07-14",
+        "filePath": "Personal/Inventory/Shed Layout/Contents/Box 07.md",
+        "wordCountStart": 13,
+        "charCountStart": 103,
+        "changes": [],
+        "id": 94
+      },
+      {
+        "date": "2025-07-14",
+        "filePath": "Personal/Inventory/Shed Layout/Contents/Box 15.md",
+        "wordCountStart": 1,
+        "charCountStart": 6,
+        "changes": [],
+        "id": 95
+      },
+      {
+        "date": "2025-07-14",
+        "filePath": "Personal/Inventory/Shed Layout/Contents/Box 14.md",
+        "wordCountStart": 5,
+        "charCountStart": 38,
+        "changes": [],
+        "id": 96
+      },
+      {
+        "date": "2025-07-14",
+        "filePath": "Personal/Inventory/Shed Layout/Contents/Box 13.md",
+        "wordCountStart": 7,
+        "charCountStart": 57,
+        "changes": [],
+        "id": 97
+      },
+      {
+        "date": "2025-07-14",
+        "filePath": "Personal/Inventory/Shed Layout/Contents/Box 12.md",
+        "wordCountStart": 1,
+        "charCountStart": 12,
+        "changes": [],
+        "id": 98
+      },
+      {
+        "date": "2025-07-14",
+        "filePath": "Journal/2025/07/Jul 14.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "20:05",
+            "w": 2,
+            "c": 12
+          },
+          {
+            "timeKey": "20:25",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 99
+      },
+      {
+        "date": "2025-07-14",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 64,
+        "charCountStart": 481,
+        "changes": [
+          {
+            "timeKey": "20:05",
+            "w": 5,
+            "c": 40
+          }
+        ],
+        "id": 100
+      },
+      {
+        "date": "2025-07-15",
+        "filePath": "Journal/2025/07/Jul 15.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "20:55",
+            "w": 2,
+            "c": 13
+          },
+          {
+            "timeKey": "21:00",
+            "w": 2,
+            "c": 12
+          }
+        ],
+        "id": 101
+      },
+      {
+        "date": "2025-07-15",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 69,
+        "charCountStart": 521,
+        "changes": [
+          {
+            "timeKey": "20:55",
+            "w": 6,
+            "c": 48
+          }
+        ],
+        "id": 102
+      },
+      {
+        "date": "2025-07-15",
+        "filePath": "Personal/Writing/Stories/Fools Gold.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:55",
+            "w": 557,
+            "c": 2759
+          }
+        ],
+        "id": 103
+      },
+      {
+        "date": "2025-07-16",
+        "filePath": "Journal/2025/07/Jul 16.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "12:30",
+            "w": 2,
+            "c": 13
+          },
+          {
+            "timeKey": "12:35",
+            "w": 2,
+            "c": 12
+          }
+        ],
+        "id": 104
+      },
+      {
+        "date": "2025-07-16",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 75,
+        "charCountStart": 569,
+        "changes": [
+          {
+            "timeKey": "12:35",
+            "w": 3,
+            "c": 27
+          }
+        ],
+        "id": 105
+      },
+      {
+        "date": "2025-07-16",
+        "filePath": "Personal/Books/Banned Books.loom",
+        "wordCountStart": 11635,
+        "charCountStart": 189666,
+        "changes": [],
+        "id": 106
+      },
+      {
+        "date": "2025-07-16",
+        "filePath": "Personal/Writing/Stories/Fools Gold.md",
+        "wordCountStart": 557,
+        "charCountStart": 2759,
+        "changes": [],
+        "id": 107
+      },
+      {
+        "date": "2025-07-16",
+        "filePath": "Trash/New PC.md",
+        "wordCountStart": 118,
+        "charCountStart": 737,
+        "changes": [
+          {
+            "timeKey": "15:45",
+            "w": 5,
+            "c": 29
+          }
+        ],
+        "id": 108
+      },
+      {
+        "date": "2025-07-16",
+        "filePath": "Personal/Campaigns/Threa.md",
+        "wordCountStart": 49,
+        "charCountStart": 372,
+        "changes": [],
+        "id": 109
+      },
+      {
+        "date": "2025-07-16",
+        "filePath": "Personal/Jon Money.md",
+        "wordCountStart": 3,
+        "charCountStart": 22,
+        "changes": [],
+        "id": 110
+      },
+      {
+        "date": "2025-07-17",
+        "filePath": "Journal/2025/07/Jul 17.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [],
+        "id": 111
+      },
+      {
+        "date": "2025-07-17",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 78,
+        "charCountStart": 596,
+        "changes": [
+          {
+            "timeKey": "19:45",
+            "w": 6,
+            "c": 57
+          }
+        ],
+        "id": 112
+      },
+      {
+        "date": "2025-07-18",
+        "filePath": "Personal/Jon Money.md",
+        "wordCountStart": 3,
+        "charCountStart": 22,
+        "changes": [],
+        "id": 113
+      },
+      {
+        "date": "2025-07-18",
+        "filePath": "Journal/2025/07/Jul 18.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [],
+        "id": 114
+      },
+      {
+        "date": "2025-07-18",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 84,
+        "charCountStart": 653,
+        "changes": [
+          {
+            "timeKey": "09:20",
+            "w": 3,
+            "c": 33
+          }
+        ],
+        "id": 115
+      },
+      {
+        "date": "2025-07-18",
+        "filePath": "Trash/New PC.md",
+        "wordCountStart": 123,
+        "charCountStart": 766,
+        "changes": [
+          {
+            "timeKey": "17:30",
+            "w": 7,
+            "c": 32
+          }
+        ],
+        "id": 116
+      },
+      {
+        "date": "2025-07-19",
+        "filePath": "Journal/2025/07/Jul 19.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [],
+        "id": 117
+      },
+      {
+        "date": "2025-07-19",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 87,
+        "charCountStart": 686,
+        "changes": [
+          {
+            "timeKey": "13:30",
+            "w": 4,
+            "c": 31
+          }
+        ],
+        "id": 118
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "Journal/2025/07/Jul 20.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "10:05",
+            "w": 10,
+            "c": 57
+          }
+        ],
+        "id": 119
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 91,
+        "charCountStart": 717,
+        "changes": [
+          {
+            "timeKey": "09:05",
+            "w": 8,
+            "c": 46
+          }
+        ],
+        "id": 120
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "Trash/New PC.md",
+        "wordCountStart": 130,
+        "charCountStart": 798,
+        "changes": [
+          {
+            "timeKey": "10:15",
+            "w": -32,
+            "c": -137
+          },
+          {
+            "timeKey": "10:20",
+            "w": 13,
+            "c": 71
+          },
+          {
+            "timeKey": "10:25",
+            "w": 6,
+            "c": 51
+          }
+        ],
+        "id": 121
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "Personal/Jon Money.md",
+        "wordCountStart": 3,
+        "charCountStart": 22,
+        "changes": [],
+        "id": 122
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "Journal/2025/07/Jul 21.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [],
+        "id": 123
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 99,
+        "charCountStart": 763,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": 4,
+            "c": 31
+          }
+        ],
+        "id": 124
+      },
+      {
+        "date": "2025-07-22",
+        "filePath": "Journal/2025/07/Jul 22.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "09:20",
+            "w": 20,
+            "c": 118
+          },
+          {
+            "timeKey": "09:25",
+            "w": 2,
+            "c": 12
+          },
+          {
+            "timeKey": "14:55",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 125
+      },
+      {
+        "date": "2025-07-22",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 103,
+        "charCountStart": 794,
+        "changes": [
+          {
+            "timeKey": "09:20",
+            "w": 0,
+            "c": 3
+          },
+          {
+            "timeKey": "09:25",
+            "w": 5,
+            "c": 34
+          }
+        ],
+        "id": 126
+      },
+      {
+        "date": "2025-07-22",
+        "filePath": "Trash/New PC.md",
+        "wordCountStart": 117,
+        "charCountStart": 783,
+        "changes": [
+          {
+            "timeKey": "08:10",
+            "w": 0,
+            "c": 8
+          },
+          {
+            "timeKey": "08:30",
+            "w": 0,
+            "c": 8
+          },
+          {
+            "timeKey": "08:35",
+            "w": 1,
+            "c": 17
+          },
+          {
+            "timeKey": "14:55",
+            "w": -1,
+            "c": -10
+          },
+          {
+            "timeKey": "19:45",
+            "w": 0,
+            "c": 4
+          },
+          {
+            "timeKey": "19:50",
+            "w": 0,
+            "c": 22
+          },
+          {
+            "timeKey": "19:55",
+            "w": 0,
+            "c": 14
+          },
+          {
+            "timeKey": "20:10",
+            "w": 0,
+            "c": 20
+          },
+          {
+            "timeKey": "20:15",
+            "w": 6,
+            "c": 58
+          },
+          {
+            "timeKey": "20:20",
+            "w": 16,
+            "c": 101
+          },
+          {
+            "timeKey": "20:25",
+            "w": 21,
+            "c": 155
+          },
+          {
+            "timeKey": "20:30",
+            "w": 23,
+            "c": 204
+          },
+          {
+            "timeKey": "20:35",
+            "w": 3,
+            "c": 16
+          }
+        ],
+        "id": 127
+      },
+      {
+        "date": "2025-07-23",
+        "filePath": "Journal/2025/07/Jul 22.md",
+        "wordCountStart": 119,
+        "charCountStart": 788,
+        "changes": [],
+        "id": 128
+      },
+      {
+        "date": "2025-07-23",
+        "filePath": "Trash/New PC.md",
+        "wordCountStart": 186,
+        "charCountStart": 1400,
+        "changes": [
+          {
+            "timeKey": "20:50",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 129
+      },
+      {
+        "date": "2025-07-23",
+        "filePath": "Journal/2025/07/Jul 23.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "20:50",
+            "w": 2,
+            "c": 12
+          }
+        ],
+        "id": 130
+      },
+      {
+        "date": "2025-07-23",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 108,
+        "charCountStart": 831,
+        "changes": [
+          {
+            "timeKey": "20:50",
+            "w": 3,
+            "c": 34
+          },
+          {
+            "timeKey": "21:05",
+            "w": 2,
+            "c": 18
+          }
+        ],
+        "id": 131
+      },
+      {
+        "date": "2025-07-24",
+        "filePath": "Journal/2025/07/Jul 23.md",
+        "wordCountStart": 99,
+        "charCountStart": 670,
+        "changes": [
+          {
+            "timeKey": "07:20",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 132
+      },
+      {
+        "date": "2025-07-24",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 113,
+        "charCountStart": 883,
+        "changes": [
+          {
+            "timeKey": "07:20",
+            "w": 4,
+            "c": 37
+          }
+        ],
+        "id": 133
+      },
+      {
+        "date": "2025-07-24",
+        "filePath": "Journal/2025/07/Jul 24.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "07:20",
+            "w": 2,
+            "c": 12
+          },
+          {
+            "timeKey": "20:15",
+            "w": 16,
+            "c": 80
+          }
+        ],
+        "id": 134
+      },
+      {
+        "date": "2025-07-24",
+        "filePath": "Trash/New PC.md",
+        "wordCountStart": 186,
+        "charCountStart": 1400,
+        "changes": [
+          {
+            "timeKey": "07:45",
+            "w": 0,
+            "c": -3
+          },
+          {
+            "timeKey": "07:50",
+            "w": 0,
+            "c": 3
+          },
+          {
+            "timeKey": "19:55",
+            "w": 0,
+            "c": 3
+          }
+        ],
+        "id": 135
+      },
+      {
+        "date": "2025-07-25",
+        "filePath": "Journal/2025/07/Jul 25.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "08:20",
+            "w": 2,
+            "c": 12
+          }
+        ],
+        "id": 136
+      },
+      {
+        "date": "2025-07-25",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 117,
+        "charCountStart": 920,
+        "changes": [
+          {
+            "timeKey": "08:20",
+            "w": 8,
+            "c": 43
+          }
+        ],
+        "id": 137
+      },
+      {
+        "date": "2025-07-25",
+        "filePath": "Trash/New PC.md",
+        "wordCountStart": 186,
+        "charCountStart": 1403,
+        "changes": [
+          {
+            "timeKey": "08:20",
+            "w": 0,
+            "c": 3
+          },
+          {
+            "timeKey": "08:25",
+            "w": 0,
+            "c": 3
+          }
+        ],
+        "id": 138
+      },
+      {
+        "date": "2025-07-25",
+        "filePath": "Personal/Task List.md",
+        "wordCountStart": 32,
+        "charCountStart": 206,
+        "changes": [],
+        "id": 139
+      },
+      {
+        "date": "2025-07-25",
+        "filePath": "Personal/Task Management.md",
+        "wordCountStart": 169,
+        "charCountStart": 1240,
+        "changes": [],
+        "id": 140
+      },
+      {
+        "date": "2025-07-25",
+        "filePath": "Personal/Technical stuff to try.md",
+        "wordCountStart": 60,
+        "charCountStart": 342,
+        "changes": [],
+        "id": 141
+      },
+      {
+        "date": "2025-07-27",
+        "filePath": "Personal/Jon Money.md",
+        "wordCountStart": 3,
+        "charCountStart": 22,
+        "changes": [],
+        "id": 142
+      },
+      {
+        "date": "2025-07-27",
+        "filePath": "Configs/Looms/Jon Money.loom",
+        "wordCountStart": 244,
+        "charCountStart": 3840,
+        "changes": [],
+        "id": 143
+      },
+      {
+        "date": "2025-07-27",
+        "filePath": "Journal/2025/07/Jul 25.md",
+        "wordCountStart": 99,
+        "charCountStart": 670,
+        "changes": [],
+        "id": 144
+      },
+      {
+        "date": "2025-07-27",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 125,
+        "charCountStart": 963,
+        "changes": [
+          {
+            "timeKey": "11:35",
+            "w": 13,
+            "c": 80
+          }
+        ],
+        "id": 145
+      },
+      {
+        "date": "2025-07-27",
+        "filePath": "Journal/2025/07/Jul 27.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "11:35",
+            "w": 2,
+            "c": 12
+          },
+          {
+            "timeKey": "13:50",
+            "w": 45,
+            "c": 229
+          },
+          {
+            "timeKey": "13:55",
+            "w": 9,
+            "c": 46
+          }
+        ],
+        "id": 146
+      },
+      {
+        "date": "2025-07-28",
+        "filePath": "Journal/2025/07/Jul 27.md",
+        "wordCountStart": 153,
+        "charCountStart": 945,
+        "changes": [],
+        "id": 147
+      },
+      {
+        "date": "2025-07-28",
+        "filePath": "Journal/2025/07/Jul 28.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "20:25",
+            "w": 4,
+            "c": 25
+          }
+        ],
+        "id": 148
+      },
+      {
+        "date": "2025-07-28",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 138,
+        "charCountStart": 1043,
+        "changes": [
+          {
+            "timeKey": "20:00",
+            "w": 4,
+            "c": 45
+          }
+        ],
+        "id": 149
+      },
+      {
+        "date": "2025-07-28",
+        "filePath": "Personal/Jon Money.md",
+        "wordCountStart": 3,
+        "charCountStart": 22,
+        "changes": [],
+        "id": 150
+      },
+      {
+        "date": "2025-07-28",
+        "filePath": "Configs/Looms/Jon Money.loom",
+        "wordCountStart": 379,
+        "charCountStart": 5939,
+        "changes": [],
+        "id": 151
+      },
+      {
+        "date": "2025-07-29",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 142,
+        "charCountStart": 1088,
+        "changes": [
+          {
+            "timeKey": "07:05",
+            "w": 20,
+            "c": 103
+          }
+        ],
+        "id": 152
+      },
+      {
+        "date": "2025-07-29",
+        "filePath": "Journal/2025/07/Jul 28.md",
+        "wordCountStart": 101,
+        "charCountStart": 683,
+        "changes": [],
+        "id": 153
+      },
+      {
+        "date": "2025-07-29",
+        "filePath": "Journal/2025/07/Jul 29.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "07:05",
+            "w": 2,
+            "c": 12
+          },
+          {
+            "timeKey": "08:30",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 154
+      },
+      {
+        "date": "2025-07-30",
+        "filePath": "Journal/2025/07/Jul 30.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "13:10",
+            "w": 2,
+            "c": 12
+          },
+          {
+            "timeKey": "17:40",
+            "w": 2,
+            "c": 13
+          },
+          {
+            "timeKey": "17:45",
+            "w": 11,
+            "c": 62
+          }
+        ],
+        "id": 155
+      },
+      {
+        "date": "2025-07-30",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 162,
+        "charCountStart": 1191,
+        "changes": [
+          {
+            "timeKey": "13:10",
+            "w": 4,
+            "c": 36
+          }
+        ],
+        "id": 156
+      },
+      {
+        "date": "2025-07-31",
+        "filePath": "Journal/2025/07/Jul 31.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "20:25",
+            "w": 2,
+            "c": 12
+          },
+          {
+            "timeKey": "20:40",
+            "w": 9,
+            "c": 55
+          }
+        ],
+        "id": 157
+      },
+      {
+        "date": "2025-07-31",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 166,
+        "charCountStart": 1227,
+        "changes": [
+          {
+            "timeKey": "20:20",
+            "w": 4,
+            "c": 46
+          }
+        ],
+        "id": 158
+      },
+      {
+        "date": "2025-08-01",
+        "filePath": "Configs/Looms/Fiancial Spreadsheet.loom",
+        "wordCountStart": 1112,
+        "charCountStart": 18910,
+        "changes": [],
+        "id": 159
+      },
+      {
+        "date": "2025-08-01",
+        "filePath": "Configs/Looms/Linux Mint & Ubuntu.loom",
+        "wordCountStart": 100,
+        "charCountStart": 1470,
+        "changes": [
+          {
+            "timeKey": "19:00",
+            "w": -100,
+            "c": -1470
+          }
+        ],
+        "id": 160
+      },
+      {
+        "date": "2025-08-01",
+        "filePath": "Configs/Looms/Jon Money.loom",
+        "wordCountStart": 379,
+        "charCountStart": 5939,
+        "changes": [],
+        "id": 161
+      },
+      {
+        "date": "2025-08-01",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 170,
+        "charCountStart": 1273,
+        "changes": [
+          {
+            "timeKey": "19:00",
+            "w": 5,
+            "c": 34
+          },
+          {
+            "timeKey": "19:05",
+            "w": 3,
+            "c": 17
+          }
+        ],
+        "id": 162
+      },
+      {
+        "date": "2025-08-01",
+        "filePath": "Journal/2025/08/Aug 01.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "19:05",
+            "w": 24,
+            "c": 137
+          }
+        ],
+        "id": 163
+      },
+      {
+        "date": "2025-08-02",
+        "filePath": "Journal/2025/08/Aug 02.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "09:15",
+            "w": 2,
+            "c": 12
+          },
+          {
+            "timeKey": "10:35",
+            "w": 10,
+            "c": 58
+          }
+        ],
+        "id": 164
+      },
+      {
+        "date": "2025-08-02",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 178,
+        "charCountStart": 1324,
+        "changes": [
+          {
+            "timeKey": "09:15",
+            "w": 5,
+            "c": 44
+          }
+        ],
+        "id": 165
+      },
+      {
+        "date": "2025-08-02",
+        "filePath": "Configs/Looms/Fiancial Spreadsheet.loom",
+        "wordCountStart": 1112,
+        "charCountStart": 18908,
+        "changes": [],
+        "id": 166
+      },
+      {
+        "date": "2025-08-03",
+        "filePath": "Personal/Critter Care.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:45",
+            "w": 73,
+            "c": 400
+          },
+          {
+            "timeKey": "15:40",
+            "w": 40,
+            "c": 320
+          }
+        ],
+        "id": 167
+      },
+      {
+        "date": "2025-08-03",
+        "filePath": "Personal/To Pack.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:50",
+            "w": 36,
+            "c": 196
+          },
+          {
+            "timeKey": "18:55",
+            "w": 18,
+            "c": 115
+          }
+        ],
+        "id": 168
+      },
+      {
+        "date": "2025-08-03",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 183,
+        "charCountStart": 1368,
+        "changes": [
+          {
+            "timeKey": "18:55",
+            "w": 5,
+            "c": 39
+          },
+          {
+            "timeKey": "19:15",
+            "w": 13,
+            "c": 107
+          }
+        ],
+        "id": 169
+      },
+      {
+        "date": "2025-08-03",
+        "filePath": "Journal/2025/08/Aug 03.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "18:55",
+            "w": 11,
+            "c": 65
+          }
+        ],
+        "id": 170
+      },
+      {
+        "date": "2025-08-04",
+        "filePath": "Untitled.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 171
+      },
+      {
+        "date": "2025-08-04",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 201,
+        "charCountStart": 1514,
+        "changes": [],
+        "id": 172
+      },
+      {
+        "date": "2025-08-04",
+        "filePath": "Journal/2025/08/Aug 04.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "20:00",
+            "w": 11,
+            "c": 66
+          }
+        ],
+        "id": 173
+      },
+      {
+        "date": "2025-08-05",
+        "filePath": "Journal/2025/08/Aug 05.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "08:45",
+            "w": 15,
+            "c": 87
+          }
+        ],
+        "id": 174
+      },
+      {
+        "date": "2025-08-05",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 201,
+        "charCountStart": 1514,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": 7,
+            "c": 36
+          }
+        ],
+        "id": 175
+      },
+      {
+        "date": "2025-08-05",
+        "filePath": "Personal/To Pack.md",
+        "wordCountStart": 54,
+        "charCountStart": 311,
+        "changes": [
+          {
+            "timeKey": "08:45",
+            "w": 2,
+            "c": 7
+          }
+        ],
+        "id": 176
+      },
+      {
+        "date": "2025-08-05",
+        "filePath": "Personal/Jon Money.md",
+        "wordCountStart": 3,
+        "charCountStart": 22,
+        "changes": [],
+        "id": 177
+      },
+      {
+        "date": "2025-08-05",
+        "filePath": "Personal/Critter Care.md",
+        "wordCountStart": 113,
+        "charCountStart": 720,
+        "changes": [],
+        "id": 178
+      },
+      {
+        "date": "2025-08-05",
+        "filePath": "Configs/Looms/Jon Money.loom",
+        "wordCountStart": 379,
+        "charCountStart": 5939,
+        "changes": [],
+        "id": 179
+      },
+      {
+        "date": "2025-08-06",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 208,
+        "charCountStart": 1550,
+        "changes": [
+          {
+            "timeKey": "10:10",
+            "w": 4,
+            "c": 38
+          }
+        ],
+        "id": 180
+      },
+      {
+        "date": "2025-08-06",
+        "filePath": "Journal/2025/08/Aug 05.md",
+        "wordCountStart": 112,
+        "charCountStart": 745,
+        "changes": [],
+        "id": 181
+      },
+      {
+        "date": "2025-08-06",
+        "filePath": "Journal/2025/08/Aug 06.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "10:10",
+            "w": 2,
+            "c": 12
+          },
+          {
+            "timeKey": "20:35",
+            "w": 10,
+            "c": 55
+          }
+        ],
+        "id": 182
+      },
+      {
+        "date": "2025-08-07",
+        "filePath": "Journal/2025/08/Aug 07.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "08:15",
+            "w": 2,
+            "c": 12
+          },
+          {
+            "timeKey": "09:05",
+            "w": 19,
+            "c": 112
+          }
+        ],
+        "id": 183
+      },
+      {
+        "date": "2025-08-07",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 212,
+        "charCountStart": 1588,
+        "changes": [
+          {
+            "timeKey": "08:15",
+            "w": 7,
+            "c": 50
+          }
+        ],
+        "id": 184
+      },
+      {
+        "date": "2025-08-08",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 219,
+        "charCountStart": 1638,
+        "changes": [
+          {
+            "timeKey": "08:45",
+            "w": 4,
+            "c": 32
+          }
+        ],
+        "id": 185
+      },
+      {
+        "date": "2025-08-08",
+        "filePath": "Journal/2025/08/Aug 07.md",
+        "wordCountStart": 118,
+        "charCountStart": 782,
+        "changes": [],
+        "id": 186
+      },
+      {
+        "date": "2025-08-08",
+        "filePath": "Journal/2025/08/Aug 08.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "08:45",
+            "w": 2,
+            "c": 12
+          },
+          {
+            "timeKey": "08:50",
+            "w": 27,
+            "c": 152
+          }
+        ],
+        "id": 187
+      },
+      {
+        "date": "2025-08-08",
+        "filePath": "Personal/To Pack.md",
+        "wordCountStart": 56,
+        "charCountStart": 318,
+        "changes": [
+          {
+            "timeKey": "12:45",
+            "w": -2,
+            "c": 10
+          },
+          {
+            "timeKey": "13:35",
+            "w": 0,
+            "c": 12
+          }
+        ],
+        "id": 188
+      },
+      {
+        "date": "2025-08-13",
+        "filePath": "Personal/To Pack.md",
+        "wordCountStart": 54,
+        "charCountStart": 340,
+        "changes": [
+          {
+            "timeKey": "19:45",
+            "w": 5,
+            "c": 42
+          }
+        ],
+        "id": 189
+      },
+      {
+        "date": "2025-08-13",
+        "filePath": "Configs/Looms/Linux Mint & Ubuntu.loom",
+        "wordCountStart": 99,
+        "charCountStart": 1470,
+        "changes": [],
+        "id": 190
+      },
+      {
+        "date": "2025-08-14",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 223,
+        "charCountStart": 1670,
+        "changes": [
+          {
+            "timeKey": "16:30",
+            "w": 3,
+            "c": 34
+          }
+        ],
+        "id": 191
+      },
+      {
+        "date": "2025-08-14",
+        "filePath": "Configs/Looms/Linux Mint & Ubuntu.loom",
+        "wordCountStart": 263,
+        "charCountStart": 4363,
+        "changes": [],
+        "id": 192
+      },
+      {
+        "date": "2025-08-14",
+        "filePath": "Personal/To Pack.md",
+        "wordCountStart": 59,
+        "charCountStart": 382,
+        "changes": [
+          {
+            "timeKey": "16:30",
+            "w": 1,
+            "c": -18
+          }
+        ],
+        "id": 193
+      },
+      {
+        "date": "2025-08-14",
+        "filePath": "Personal/Jon Money.md",
+        "wordCountStart": 3,
+        "charCountStart": 22,
+        "changes": [],
+        "id": 194
+      },
+      {
+        "date": "2025-08-14",
+        "filePath": "Configs/Looms/Fiancial Spreadsheet.loom",
+        "wordCountStart": 1112,
+        "charCountStart": 18908,
+        "changes": [],
+        "id": 195
+      },
+      {
+        "date": "2025-08-14",
+        "filePath": "Journal/2025/08/Aug 14.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "16:45",
+            "w": 12,
+            "c": 75
+          }
+        ],
+        "id": 196
+      },
+      {
+        "date": "2025-08-15",
+        "filePath": "Journal/2025/08/Aug 15.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "17:00",
+            "w": 34,
+            "c": 172
+          }
+        ],
+        "id": 197
+      },
+      {
+        "date": "2025-08-15",
+        "filePath": "Journal/2025/08/Aug 14.md",
+        "wordCountStart": 109,
+        "charCountStart": 733,
+        "changes": [],
+        "id": 198
+      },
+      {
+        "date": "2025-08-15",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 226,
+        "charCountStart": 1704,
+        "changes": [
+          {
+            "timeKey": "10:45",
+            "w": 5,
+            "c": 55
+          }
+        ],
+        "id": 199
+      },
+      {
+        "date": "2025-08-16",
+        "filePath": "Journal/2025/08/Aug 16.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "14:25",
+            "w": 2,
+            "c": 12
+          },
+          {
+            "timeKey": "14:50",
+            "w": 8,
+            "c": 51
+          }
+        ],
+        "id": 200
+      },
+      {
+        "date": "2025-08-16",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 231,
+        "charCountStart": 1759,
+        "changes": [
+          {
+            "timeKey": "14:25",
+            "w": 6,
+            "c": 42
+          }
+        ],
+        "id": 201
+      },
+      {
+        "date": "2025-08-17",
+        "filePath": "Journal/2025/08/Aug 17.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 2,
+            "c": 12
+          },
+          {
+            "timeKey": "12:10",
+            "w": 15,
+            "c": 87
+          },
+          {
+            "timeKey": "14:10",
+            "w": 22,
+            "c": 144
+          },
+          {
+            "timeKey": "15:55",
+            "w": 2,
+            "c": 19
+          }
+        ],
+        "id": 202
+      },
+      {
+        "date": "2025-08-17",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 237,
+        "charCountStart": 1801,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 5,
+            "c": 44
+          }
+        ],
+        "id": 203
+      },
+      {
+        "date": "2025-08-17",
+        "filePath": "Configs/Looms/Fiancial Spreadsheet.loom",
+        "wordCountStart": 1112,
+        "charCountStart": 18908,
+        "changes": [],
+        "id": 204
+      },
+      {
+        "date": "2025-08-17",
+        "filePath": "Personal/Jon Money.md",
+        "wordCountStart": 3,
+        "charCountStart": 22,
+        "changes": [],
+        "id": 205
+      },
+      {
+        "date": "2025-08-18",
+        "filePath": "Journal/2025/08/Aug 18.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "08:30",
+            "w": 2,
+            "c": 12
+          },
+          {
+            "timeKey": "08:35",
+            "w": 18,
+            "c": 95
+          }
+        ],
+        "id": 206
+      },
+      {
+        "date": "2025-08-18",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 242,
+        "charCountStart": 1845,
+        "changes": [
+          {
+            "timeKey": "08:25",
+            "w": 1,
+            "c": 15
+          },
+          {
+            "timeKey": "08:30",
+            "w": 3,
+            "c": 20
+          }
+        ],
+        "id": 207
+      },
+      {
+        "date": "2025-08-18",
+        "filePath": "Personal/Learning/Unity/C-Sharp.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "08:30",
+            "w": 12,
+            "c": 64
+          }
+        ],
+        "id": 208
+      },
+      {
+        "date": "2025-08-19",
+        "filePath": "Journal/2025/08/Aug 18.md",
+        "wordCountStart": 117,
+        "charCountStart": 765,
+        "changes": [],
+        "id": 209
+      },
+      {
+        "date": "2025-08-19",
+        "filePath": "Journal/2025/08/Aug 19.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "07:55",
+            "w": 2,
+            "c": 12
+          },
+          {
+            "timeKey": "08:30",
+            "w": 19,
+            "c": 100
+          }
+        ],
+        "id": 210
+      },
+      {
+        "date": "2025-08-19",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 246,
+        "charCountStart": 1880,
+        "changes": [
+          {
+            "timeKey": "07:55",
+            "w": 8,
+            "c": 61
+          }
+        ],
+        "id": 211
+      },
+      {
+        "date": "2025-08-20",
+        "filePath": "Journal/2025/08/Aug 20.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "20:40",
+            "w": 25,
+            "c": 139
+          }
+        ],
+        "id": 212
+      },
+      {
+        "date": "2025-08-20",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 254,
+        "charCountStart": 1941,
+        "changes": [
+          {
+            "timeKey": "07:25",
+            "w": 7,
+            "c": 41
+          },
+          {
+            "timeKey": "07:30",
+            "w": 10,
+            "c": 57
+          },
+          {
+            "timeKey": "20:20",
+            "w": 3,
+            "c": 24
+          },
+          {
+            "timeKey": "20:35",
+            "w": 2,
+            "c": 10
+          }
+        ],
+        "id": 213
+      },
+      {
+        "date": "2025-08-21",
+        "filePath": "Journal/2025/08/Aug 20.md",
+        "wordCountStart": 122,
+        "charCountStart": 797,
+        "changes": [],
+        "id": 214
+      },
+      {
+        "date": "2025-08-21",
+        "filePath": "Personal/Kickstart Stuff/Kickstart Stuff.md",
+        "wordCountStart": 55,
+        "charCountStart": 386,
+        "changes": [
+          {
+            "timeKey": "14:05",
+            "w": 8,
+            "c": 41
+          }
+        ],
+        "id": 215
+      },
+      {
+        "date": "2025-08-21",
+        "filePath": "Journal/2025/08/Aug 21.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "16:20",
+            "w": 25,
+            "c": 130
+          },
+          {
+            "timeKey": "17:45",
+            "w": 41,
+            "c": 216
+          }
+        ],
+        "id": 216
+      },
+      {
+        "date": "2025-08-21",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 276,
+        "charCountStart": 2073,
+        "changes": [
+          {
+            "timeKey": "16:20",
+            "w": 5,
+            "c": 38
+          }
+        ],
+        "id": 217
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "Journal/2025/08/Aug 22.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "09:20",
+            "w": 24,
+            "c": 129
+          }
+        ],
+        "id": 218
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 281,
+        "charCountStart": 2111,
+        "changes": [
+          {
+            "timeKey": "08:45",
+            "w": 7,
+            "c": 60
+          }
+        ],
+        "id": 219
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "Untitled.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:35",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 220
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "Personal/Kickstart Stuff/Got it!.md",
+        "wordCountStart": 2064,
+        "charCountStart": 10755,
+        "changes": [
+          {
+            "timeKey": "15:35",
+            "w": 12,
+            "c": 64
+          }
+        ],
+        "id": 221
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "Personal/Kickstart Stuff/Kickstart Stuff.md",
+        "wordCountStart": 63,
+        "charCountStart": 427,
+        "changes": [
+          {
+            "timeKey": "15:35",
+            "w": -8,
+            "c": -46
+          }
+        ],
+        "id": 222
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "Configs/Looms/Fiancial Spreadsheet.loom",
+        "wordCountStart": 1112,
+        "charCountStart": 18908,
+        "changes": [],
+        "id": 223
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "Personal/Jon Money.md",
+        "wordCountStart": 3,
+        "charCountStart": 22,
+        "changes": [],
+        "id": 224
+      },
+      {
+        "date": "2025-08-23",
+        "filePath": "Journal/2025/08/Aug 23.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "10:55",
+            "w": 16,
+            "c": 97
+          },
+          {
+            "timeKey": "11:00",
+            "w": 2,
+            "c": 12
+          }
+        ],
+        "id": 225
+      },
+      {
+        "date": "2025-08-23",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 288,
+        "charCountStart": 2171,
+        "changes": [
+          {
+            "timeKey": "11:00",
+            "w": 11,
+            "c": 75
+          }
+        ],
+        "id": 226
+      },
+      {
+        "date": "2025-08-24",
+        "filePath": "Journal/2025/08/Aug 23.md",
+        "wordCountStart": 115,
+        "charCountStart": 767,
+        "changes": [],
+        "id": 227
+      },
+      {
+        "date": "2025-08-24",
+        "filePath": "Journal/2025/08/Aug 24.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "11:00",
+            "w": 25,
+            "c": 141
+          },
+          {
+            "timeKey": "11:10",
+            "w": 2,
+            "c": 12
+          }
+        ],
+        "id": 228
+      },
+      {
+        "date": "2025-08-24",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 299,
+        "charCountStart": 2246,
+        "changes": [
+          {
+            "timeKey": "11:00",
+            "w": 3,
+            "c": 27
+          },
+          {
+            "timeKey": "11:05",
+            "w": 2,
+            "c": 17
+          }
+        ],
+        "id": 229
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "Journal/2025/08/Aug 25.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": 55,
+            "c": 286
+          },
+          {
+            "timeKey": "08:05",
+            "w": 2,
+            "c": 12
+          }
+        ],
+        "id": 230
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 304,
+        "charCountStart": 2290,
+        "changes": [
+          {
+            "timeKey": "08:05",
+            "w": 4,
+            "c": 31
+          }
+        ],
+        "id": 231
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "Journal/2025/08/Aug 26.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "07:55",
+            "w": 77,
+            "c": 380
+          }
+        ],
+        "id": 232
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 308,
+        "charCountStart": 2321,
+        "changes": [
+          {
+            "timeKey": "07:55",
+            "w": 3,
+            "c": 24
+          },
+          {
+            "timeKey": "08:30",
+            "w": 6,
+            "c": 38
+          }
+        ],
+        "id": 233
+      },
+      {
+        "date": "2025-08-27",
+        "filePath": "Journal/2025/08/Aug 26.md",
+        "wordCountStart": 174,
+        "charCountStart": 1038,
+        "changes": [],
+        "id": 234
+      },
+      {
+        "date": "2025-08-27",
+        "filePath": "Journal/2025/08/Aug 27.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "08:30",
+            "w": 93,
+            "c": 470
+          }
+        ],
+        "id": 235
+      },
+      {
+        "date": "2025-08-27",
+        "filePath": "Personal/Kickstart Stuff/Kickstart Stuff.md",
+        "wordCountStart": 55,
+        "charCountStart": 381,
+        "changes": [
+          {
+            "timeKey": "07:50",
+            "w": 4,
+            "c": 18
+          },
+          {
+            "timeKey": "10:55",
+            "w": 6,
+            "c": 37
+          },
+          {
+            "timeKey": "11:00",
+            "w": 0,
+            "c": -1
+          },
+          {
+            "timeKey": "15:15",
+            "w": -6,
+            "c": -30
+          }
+        ],
+        "id": 236
+      },
+      {
+        "date": "2025-08-27",
+        "filePath": "Personal/Learning/Godot.md",
+        "wordCountStart": 22,
+        "charCountStart": 111,
+        "changes": [
+          {
+            "timeKey": "11:05",
+            "w": 16,
+            "c": 69
+          }
+        ],
+        "id": 237
+      },
+      {
+        "date": "2025-08-27",
+        "filePath": "Personal/Learning/Languages/Vietnamese.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "11:05",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 238
+      },
+      {
+        "date": "2025-08-27",
+        "filePath": "Trash/New PC.md",
+        "wordCountStart": 186,
+        "charCountStart": 1409,
+        "changes": [],
+        "id": 242
+      },
+      {
+        "date": "2025-08-27",
+        "filePath": "Personal/Kickstart Stuff/Got it!.md",
+        "wordCountStart": 2076,
+        "charCountStart": 10819,
+        "changes": [
+          {
+            "timeKey": "15:15",
+            "w": 10,
+            "c": 47
+          }
+        ],
+        "id": 243
+      },
+      {
+        "date": "2025-08-28",
+        "filePath": "Journal/2025/08/Aug 28.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "07:55",
+            "w": 48,
+            "c": 212
+          }
+        ],
+        "id": 244
+      },
+      {
+        "date": "2025-08-28",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 317,
+        "charCountStart": 2383,
+        "changes": [
+          {
+            "timeKey": "07:55",
+            "w": 5,
+            "c": 40
+          }
+        ],
+        "id": 245
+      },
+      {
+        "date": "2025-08-28",
+        "filePath": "Personal/Kickstart Stuff/Kickstart Stuff.md",
+        "wordCountStart": 59,
+        "charCountStart": 405,
+        "changes": [
+          {
+            "timeKey": "07:55",
+            "w": 5,
+            "c": 24
+          }
+        ],
+        "id": 246
+      },
+      {
+        "date": "2025-08-29",
+        "filePath": "Personal/Kickstart Stuff/Kickstart Stuff.md",
+        "wordCountStart": 64,
+        "charCountStart": 429,
+        "changes": [
+          {
+            "timeKey": "08:30",
+            "w": -13,
+            "c": -74
+          }
+        ],
+        "id": 247
+      },
+      {
+        "date": "2025-08-29",
+        "filePath": "Personal/Kickstart Stuff/Got it!.md",
+        "wordCountStart": 2086,
+        "charCountStart": 10866,
+        "changes": [
+          {
+            "timeKey": "08:30",
+            "w": 7,
+            "c": 29
+          }
+        ],
+        "id": 248
+      },
+      {
+        "date": "2025-08-29",
+        "filePath": "Journal/2025/08/Aug 28.md",
+        "wordCountStart": 145,
+        "charCountStart": 870,
+        "changes": [],
+        "id": 249
+      },
+      {
+        "date": "2025-08-29",
+        "filePath": "Journal/2025/08/Aug 29.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "09:20",
+            "w": 39,
+            "c": 178
+          },
+          {
+            "timeKey": "09:50",
+            "w": 24,
+            "c": 122
+          }
+        ],
+        "id": 250
+      },
+      {
+        "date": "2025-08-29",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 322,
+        "charCountStart": 2423,
+        "changes": [
+          {
+            "timeKey": "09:20",
+            "w": 5,
+            "c": 30
+          }
+        ],
+        "id": 251
+      },
+      {
+        "date": "2025-08-29",
+        "filePath": "Personal/Education Path.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "09:50",
+            "w": 48,
+            "c": 262
+          },
+          {
+            "timeKey": "09:55",
+            "w": 11,
+            "c": 59
+          }
+        ],
+        "id": 252
+      },
+      {
+        "date": "2025-08-29",
+        "filePath": "Personal/Learning/Blender Course.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:10",
+            "w": 7,
+            "c": 53
+          }
+        ],
+        "id": 253
+      },
+      {
+        "date": "2025-08-30",
+        "filePath": "Personal/Learning/Unity/Unity.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "08:25",
+            "w": 16,
+            "c": 106
+          },
+          {
+            "timeKey": "08:35",
+            "w": 15,
+            "c": 93
+          }
+        ],
+        "id": 254
+      },
+      {
+        "date": "2025-08-30",
+        "filePath": "Journal/2025/08/Aug 30.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "08:40",
+            "w": 28,
+            "c": 131
+          }
+        ],
+        "id": 255
+      },
+      {
+        "date": "2025-08-30",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 327,
+        "charCountStart": 2453,
+        "changes": [
+          {
+            "timeKey": "08:40",
+            "w": 4,
+            "c": 31
+          }
+        ],
+        "id": 256
+      },
+      {
+        "date": "2025-08-30",
+        "filePath": "Personal/Learning/Blender.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:15",
+            "w": 3,
+            "c": 16
+          },
+          {
+            "timeKey": "12:25",
+            "w": 10,
+            "c": 56
+          },
+          {
+            "timeKey": "12:35",
+            "w": 13,
+            "c": 82
+          },
+          {
+            "timeKey": "12:40",
+            "w": 18,
+            "c": 98
+          },
+          {
+            "timeKey": "12:45",
+            "w": 22,
+            "c": 113
+          },
+          {
+            "timeKey": "12:50",
+            "w": 3,
+            "c": 12
+          },
+          {
+            "timeKey": "12:55",
+            "w": 46,
+            "c": 234
+          },
+          {
+            "timeKey": "13:00",
+            "w": 7,
+            "c": 41
+          }
+        ],
+        "id": 257
+      },
+      {
+        "date": "2025-08-31",
+        "filePath": "Journal/2025/08/Aug 30.md",
+        "wordCountStart": 125,
+        "charCountStart": 789,
+        "changes": [],
+        "id": 258
+      },
+      {
+        "date": "2025-08-31",
+        "filePath": "Journal/2025/08/Aug 31.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "10:30",
+            "w": 87,
+            "c": 450
+          }
+        ],
+        "id": 259
+      },
+      {
+        "date": "2025-08-31",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 331,
+        "charCountStart": 2484,
+        "changes": [
+          {
+            "timeKey": "10:30",
+            "w": 6,
+            "c": 40
+          }
+        ],
+        "id": 260
+      },
+      {
+        "date": "2025-08-31",
+        "filePath": "Personal/New Backup Drive.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:40",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 261
+      },
+      {
+        "date": "2025-09-01",
+        "filePath": "Journal/2025/09/Sep 01.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "11:40",
+            "w": 4,
+            "c": 25
+          },
+          {
+            "timeKey": "17:25",
+            "w": 30,
+            "c": 149
+          },
+          {
+            "timeKey": "17:50",
+            "w": 11,
+            "c": 64
+          }
+        ],
+        "id": 262
+      },
+      {
+        "date": "2025-09-01",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 337,
+        "charCountStart": 2524,
+        "changes": [
+          {
+            "timeKey": "11:40",
+            "w": 6,
+            "c": 36
+          }
+        ],
+        "id": 263
+      },
+      {
+        "date": "2025-09-02",
+        "filePath": "Journal/2025/09/Sep 02.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "07:55",
+            "w": 11,
+            "c": 70
+          }
+        ],
+        "id": 264
+      },
+      {
+        "date": "2025-09-02",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 343,
+        "charCountStart": 2560,
+        "changes": [
+          {
+            "timeKey": "07:40",
+            "w": 3,
+            "c": 33
+          }
+        ],
+        "id": 265
+      },
+      {
+        "date": "2025-09-02",
+        "filePath": "Personal/Learning/Blender Course.md",
+        "wordCountStart": 7,
+        "charCountStart": 53,
+        "changes": [],
+        "id": 266
+      },
+      {
+        "date": "2025-09-02",
+        "filePath": "Personal/Learning/Blender.md",
+        "wordCountStart": 122,
+        "charCountStart": 652,
+        "changes": [
+          {
+            "timeKey": "07:45",
+            "w": 3,
+            "c": 14
+          },
+          {
+            "timeKey": "07:55",
+            "w": 3,
+            "c": 21
+          }
+        ],
+        "id": 267
+      },
+      {
+        "date": "2025-09-03",
+        "filePath": "Journal/2025/09/Sep 03.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "08:15",
+            "w": 2,
+            "c": 12
+          },
+          {
+            "timeKey": "08:30",
+            "w": 24,
+            "c": 141
+          },
+          {
+            "timeKey": "08:35",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 268
+      },
+      {
+        "date": "2025-09-03",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 346,
+        "charCountStart": 2593,
+        "changes": [
+          {
+            "timeKey": "08:10",
+            "w": 4,
+            "c": 34
+          }
+        ],
+        "id": 269
+      },
+      {
+        "date": "2025-09-03",
+        "filePath": "Personal/Learning/Blender.md",
+        "wordCountStart": 128,
+        "charCountStart": 687,
+        "changes": [
+          {
+            "timeKey": "08:15",
+            "w": 16,
+            "c": 83
+          },
+          {
+            "timeKey": "08:20",
+            "w": 7,
+            "c": 35
+          },
+          {
+            "timeKey": "08:30",
+            "w": 11,
+            "c": 61
+          }
+        ],
+        "id": 270
+      },
+      {
+        "date": "2025-09-04",
+        "filePath": "Personal/Learning/Blender.md",
+        "wordCountStart": 162,
+        "charCountStart": 866,
+        "changes": [
+          {
+            "timeKey": "07:25",
+            "w": 10,
+            "c": 53
+          },
+          {
+            "timeKey": "07:30",
+            "w": 5,
+            "c": 34
+          }
+        ],
+        "id": 271
+      },
+      {
+        "date": "2025-09-04",
+        "filePath": "Journal/2025/09/Sep 04.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "07:45",
+            "w": 22,
+            "c": 133
+          }
+        ],
+        "id": 272
+      },
+      {
+        "date": "2025-09-04",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 350,
+        "charCountStart": 2627,
+        "changes": [
+          {
+            "timeKey": "07:45",
+            "w": 6,
+            "c": 42
+          }
+        ],
+        "id": 273
+      },
+      {
+        "date": "2025-09-05",
+        "filePath": "Personal/Kickstart Stuff/Kickstart Stuff.md",
+        "wordCountStart": 51,
+        "charCountStart": 355,
+        "changes": [
+          {
+            "timeKey": "11:05",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 276
+      },
+      {
+        "date": "2025-09-05",
+        "filePath": "Personal/Learning/Blender.md",
+        "wordCountStart": 177,
+        "charCountStart": 953,
+        "changes": [
+          {
+            "timeKey": "09:35",
+            "w": 11,
+            "c": 53
+          },
+          {
+            "timeKey": "09:40",
+            "w": 14,
+            "c": 72
+          }
+        ],
+        "id": 277
+      },
+      {
+        "date": "2025-09-05",
+        "filePath": "Journal/2025/09/Sep 04.md",
+        "wordCountStart": 119,
+        "charCountStart": 791,
+        "changes": [],
+        "id": 278
+      },
+      {
+        "date": "2025-09-05",
+        "filePath": "Journal/2025/09/Sep 05.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [],
+        "id": 279
+      },
+      {
+        "date": "2025-09-05",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 356,
+        "charCountStart": 2669,
+        "changes": [
+          {
+            "timeKey": "11:05",
+            "w": 15,
+            "c": 106
+          }
+        ],
+        "id": 280
+      },
+      {
+        "date": "2025-09-05",
+        "filePath": "Personal/New Backup Drive.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "11:20",
+            "w": 46,
+            "c": 285
+          }
+        ],
+        "id": 281
+      },
+      {
+        "date": "2025-09-06",
+        "filePath": "Personal/New Backup Drive.md",
+        "wordCountStart": 46,
+        "charCountStart": 285,
+        "changes": [
+          {
+            "timeKey": "10:25",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 282
+      },
+      {
+        "date": "2025-09-06",
+        "filePath": "Journal/2025/09/Sep 05.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [],
+        "id": 283
+      },
+      {
+        "date": "2025-09-06",
+        "filePath": "Journal/2025/09/Sep 06.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "10:25",
+            "w": 3,
+            "c": 13
+          },
+          {
+            "timeKey": "10:30",
+            "w": 58,
+            "c": 305
+          }
+        ],
+        "id": 284
+      },
+      {
+        "date": "2025-09-06",
+        "filePath": "Journal/2025/09/Sep 03.md",
+        "wordCountStart": 125,
+        "charCountStart": 824,
+        "changes": [],
+        "id": 285
+      },
+      {
+        "date": "2025-09-06",
+        "filePath": "Personal/Learning/Unity/Unity.md",
+        "wordCountStart": 31,
+        "charCountStart": 199,
+        "changes": [],
+        "id": 286
+      },
+      {
+        "date": "2025-09-06",
+        "filePath": "Personal/Learning/Blender.md",
+        "wordCountStart": 202,
+        "charCountStart": 1078,
+        "changes": [],
+        "id": 287
+      },
+      {
+        "date": "2025-09-06",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 371,
+        "charCountStart": 2775,
+        "changes": [
+          {
+            "timeKey": "10:30",
+            "w": 6,
+            "c": 39
+          }
+        ],
+        "id": 288
+      },
+      {
+        "date": "2025-09-07",
+        "filePath": "Journal/2025/09/Sep 06.md",
+        "wordCountStart": 158,
+        "charCountStart": 976,
+        "changes": [],
+        "id": 289
+      },
+      {
+        "date": "2025-09-07",
+        "filePath": "Journal/2025/09/Sep 07.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "10:55",
+            "w": 53,
+            "c": 252
+          },
+          {
+            "timeKey": "12:00",
+            "w": 24,
+            "c": 120
+          },
+          {
+            "timeKey": "12:05",
+            "w": 6,
+            "c": 37
+          }
+        ],
+        "id": 290
+      },
+      {
+        "date": "2025-09-07",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 377,
+        "charCountStart": 2814,
+        "changes": [
+          {
+            "timeKey": "10:55",
+            "w": 4,
+            "c": 30
+          }
+        ],
+        "id": 291
+      },
+      {
+        "date": "2025-09-08",
+        "filePath": "Journal/2025/09/Sep 07.md",
+        "wordCountStart": 180,
+        "charCountStart": 1067,
+        "changes": [],
+        "id": 292
+      },
+      {
+        "date": "2025-09-08",
+        "filePath": "Journal/2025/09/Sep 08.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "07:25",
+            "w": 17,
+            "c": 100
+          }
+        ],
+        "id": 293
+      },
+      {
+        "date": "2025-09-08",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 381,
+        "charCountStart": 2844,
+        "changes": [
+          {
+            "timeKey": "07:25",
+            "w": 9,
+            "c": 67
+          }
+        ],
+        "id": 294
+      },
+      {
+        "date": "2025-09-08",
+        "filePath": "Personal/New Backup Drive.md",
+        "wordCountStart": 46,
+        "charCountStart": 286,
+        "changes": [
+          {
+            "timeKey": "20:25",
+            "w": 0,
+            "c": 4
+          }
+        ],
+        "id": 295
+      },
+      {
+        "date": "2025-09-09",
+        "filePath": "Journal/2025/09/Sep 08.md",
+        "wordCountStart": 114,
+        "charCountStart": 758,
+        "changes": [],
+        "id": 296
+      },
+      {
+        "date": "2025-09-09",
+        "filePath": "Journal/2025/09/Sep 09.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "08:15",
+            "w": 62,
+            "c": 323
+          },
+          {
+            "timeKey": "08:20",
+            "w": 2,
+            "c": 12
+          }
+        ],
+        "id": 297
+      },
+      {
+        "date": "2025-09-09",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 390,
+        "charCountStart": 2911,
+        "changes": [
+          {
+            "timeKey": "08:20",
+            "w": 5,
+            "c": 40
+          }
+        ],
+        "id": 298
+      },
+      {
+        "date": "2025-09-09",
+        "filePath": "Personal/New Backup Drive.md",
+        "wordCountStart": 46,
+        "charCountStart": 290,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": 0,
+            "c": 28
+          },
+          {
+            "timeKey": "17:50",
+            "w": -46,
+            "c": -318
+          }
+        ],
+        "id": 299
+      },
+      {
+        "date": "2025-09-09",
+        "filePath": "Personal/To Pack.md",
+        "wordCountStart": 60,
+        "charCountStart": 364,
+        "changes": [],
+        "id": 300
+      },
+      {
+        "date": "2025-09-09",
+        "filePath": "Personal/Learning/Unity/Unity.md",
+        "wordCountStart": 31,
+        "charCountStart": 199,
+        "changes": [],
+        "id": 301
+      },
+      {
+        "date": "2025-09-09",
+        "filePath": "Personal/Technical stuff to try.md",
+        "wordCountStart": 60,
+        "charCountStart": 342,
+        "changes": [],
+        "id": 302
+      },
+      {
+        "date": "2025-09-09",
+        "filePath": "Personal/Task Management.md",
+        "wordCountStart": 169,
+        "charCountStart": 1240,
+        "changes": [],
+        "id": 303
+      },
+      {
+        "date": "2025-09-09",
+        "filePath": "Personal/Task List.md",
+        "wordCountStart": 32,
+        "charCountStart": 206,
+        "changes": [],
+        "id": 304
+      },
+      {
+        "date": "2025-09-09",
+        "filePath": "Personal/Learning/Blender.md",
+        "wordCountStart": 202,
+        "charCountStart": 1078,
+        "changes": [],
+        "id": 305
+      },
+      {
+        "date": "2025-09-10",
+        "filePath": "Journal/2025/09/Sep 09.md",
+        "wordCountStart": 161,
+        "charCountStart": 993,
+        "changes": [],
+        "id": 306
+      },
+      {
+        "date": "2025-09-10",
+        "filePath": "Journal/2025/09/Sep 10.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "08:15",
+            "w": 72,
+            "c": 368
+          }
+        ],
+        "id": 307
+      },
+      {
+        "date": "2025-09-10",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 395,
+        "charCountStart": 2951,
+        "changes": [
+          {
+            "timeKey": "08:15",
+            "w": 8,
+            "c": 48
+          }
+        ],
+        "id": 308
+      },
+      {
+        "date": "2025-09-10",
+        "filePath": "Personal/Kickstart Stuff/Got it!.md",
+        "wordCountStart": 2093,
+        "charCountStart": 10895,
+        "changes": [
+          {
+            "timeKey": "19:15",
+            "w": 10,
+            "c": 44
+          }
+        ],
+        "id": 309
+      },
+      {
+        "date": "2025-09-10",
+        "filePath": "Personal/Kickstart Stuff/Kickstart Stuff.md",
+        "wordCountStart": 51,
+        "charCountStart": 355,
+        "changes": [
+          {
+            "timeKey": "19:15",
+            "w": -3,
+            "c": -18
+          }
+        ],
+        "id": 310
+      },
+      {
+        "date": "2025-09-11",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 403,
+        "charCountStart": 2999,
+        "changes": [
+          {
+            "timeKey": "10:10",
+            "w": 7,
+            "c": 57
+          }
+        ],
+        "id": 311
+      },
+      {
+        "date": "2025-09-11",
+        "filePath": "Personal/Task List.md",
+        "wordCountStart": 32,
+        "charCountStart": 206,
+        "changes": [],
+        "id": 312
+      },
+      {
+        "date": "2025-09-11",
+        "filePath": "Journal/2025/09/Sep 11.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "10:10",
+            "w": 9,
+            "c": 56
+          },
+          {
+            "timeKey": "10:15",
+            "w": 28,
+            "c": 129
+          },
+          {
+            "timeKey": "11:40",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 313
+      },
+      {
+        "date": "2025-09-11",
+        "filePath": "Personal/Uncle Zuke - Grave.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:35",
+            "w": 0,
+            "c": 2
+          },
+          {
+            "timeKey": "14:40",
+            "w": 18,
+            "c": 107
+          }
+        ],
+        "id": 314
+      },
+      {
+        "date": "2025-09-11",
+        "filePath": "Personal/Learning/Blender Course.md",
+        "wordCountStart": 7,
+        "charCountStart": 53,
+        "changes": [],
+        "id": 315
+      },
+      {
+        "date": "2025-09-11",
+        "filePath": "Personal/Learning/Blender.md",
+        "wordCountStart": 202,
+        "charCountStart": 1078,
+        "changes": [
+          {
+            "timeKey": "15:40",
+            "w": 9,
+            "c": 41
+          },
+          {
+            "timeKey": "15:45",
+            "w": 5,
+            "c": 33
+          }
+        ],
+        "id": 316
+      },
+      {
+        "date": "2025-09-12",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 410,
+        "charCountStart": 3056,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": 4,
+            "c": 34
+          }
+        ],
+        "id": 317
+      },
+      {
+        "date": "2025-09-12",
+        "filePath": "Journal/2025/09/Sep 12.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": 25,
+            "c": 133
+          }
+        ],
+        "id": 318
+      },
+      {
+        "date": "2025-09-13",
+        "filePath": "Journal/2025/09/Sep 13.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "08:40",
+            "w": 25,
+            "c": 136
+          }
+        ],
+        "id": 319
+      },
+      {
+        "date": "2025-09-13",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 414,
+        "charCountStart": 3090,
+        "changes": [
+          {
+            "timeKey": "08:40",
+            "w": 7,
+            "c": 42
+          }
+        ],
+        "id": 320
+      },
+      {
+        "date": "2025-09-13",
+        "filePath": "Personal/Learning/Blender.md",
+        "wordCountStart": 216,
+        "charCountStart": 1152,
+        "changes": [],
+        "id": 321
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "Journal/2025/09/Sep 13.md",
+        "wordCountStart": 122,
+        "charCountStart": 794,
+        "changes": [],
+        "id": 322
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "Journal/2025/09/Sep 14.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "13:30",
+            "w": 49,
+            "c": 258
+          }
+        ],
+        "id": 323
+      },
+      {
+        "date": "2025-09-14",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 421,
+        "charCountStart": 3132,
+        "changes": [
+          {
+            "timeKey": "13:30",
+            "w": 11,
+            "c": 76
+          }
+        ],
+        "id": 324
+      },
+      {
+        "date": "2025-09-15",
+        "filePath": "Journal/2025/09/Sep 14.md",
+        "wordCountStart": 146,
+        "charCountStart": 916,
+        "changes": [],
+        "id": 325
+      },
+      {
+        "date": "2025-09-15",
+        "filePath": "Journal/2025/09/Sep 15.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "08:10",
+            "w": 60,
+            "c": 292
+          }
+        ],
+        "id": 326
+      },
+      {
+        "date": "2025-09-15",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 432,
+        "charCountStart": 3208,
+        "changes": [
+          {
+            "timeKey": "08:10",
+            "w": 4,
+            "c": 32
+          },
+          {
+            "timeKey": "19:45",
+            "w": 0,
+            "c": -1
+          }
+        ],
+        "id": 327
+      },
+      {
+        "date": "2025-09-15",
+        "filePath": "Personal/Kickstart Stuff/Kickstart Stuff.md",
+        "wordCountStart": 48,
+        "charCountStart": 337,
+        "changes": [
+          {
+            "timeKey": "08:10",
+            "w": 1,
+            "c": 12
+          }
+        ],
+        "id": 328
+      },
+      {
+        "date": "2025-09-15",
+        "filePath": "Personal/Learning/Blender.md",
+        "wordCountStart": 216,
+        "charCountStart": 1152,
+        "changes": [],
+        "id": 329
+      },
+      {
+        "date": "2025-09-15",
+        "filePath": "Personal/Task List.md",
+        "wordCountStart": 32,
+        "charCountStart": 206,
+        "changes": [],
+        "id": 330
+      },
+      {
+        "date": "2025-09-16",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 436,
+        "charCountStart": 3239,
+        "changes": [
+          {
+            "timeKey": "08:10",
+            "w": 11,
+            "c": 76
+          }
+        ],
+        "id": 331
+      },
+      {
+        "date": "2025-09-16",
+        "filePath": "Journal/2025/09/Sep 15.md",
+        "wordCountStart": 157,
+        "charCountStart": 950,
+        "changes": [
+          {
+            "timeKey": "08:10",
+            "w": 2,
+            "c": 12
+          }
+        ],
+        "id": 332
+      },
+      {
+        "date": "2025-09-16",
+        "filePath": "Journal/2025/09/Sep 16.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "08:10",
+            "w": 33,
+            "c": 172
+          },
+          {
+            "timeKey": "08:15",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 333
+      },
+      {
+        "date": "2025-09-19",
+        "filePath": "Journal/2025/09/Sep 19.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "13:05",
+            "w": 83,
+            "c": 434
+          },
+          {
+            "timeKey": "14:50",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 334
+      },
+      {
+        "date": "2025-09-19",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 447,
+        "charCountStart": 3315,
+        "changes": [
+          {
+            "timeKey": "13:05",
+            "w": 7,
+            "c": 54
+          }
+        ],
+        "id": 335
+      },
+      {
+        "date": "2025-09-20",
+        "filePath": "Journal/2025/09/Sep 19.md",
+        "wordCountStart": 180,
+        "charCountStart": 1093,
+        "changes": [],
+        "id": 336
+      },
+      {
+        "date": "2025-09-20",
+        "filePath": "Personal/Blender.md",
+        "wordCountStart": 202,
+        "charCountStart": 1078,
+        "changes": [
+          {
+            "timeKey": "09:15",
+            "w": 5,
+            "c": 27
+          }
+        ],
+        "id": 337
+      },
+      {
+        "date": "2025-09-20",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 454,
+        "charCountStart": 3369,
+        "changes": [
+          {
+            "timeKey": "09:20",
+            "w": 5,
+            "c": 45
+          }
+        ],
+        "id": 338
+      },
+      {
+        "date": "2025-09-20",
+        "filePath": "Journal/2025/09/Sep 20.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "09:20",
+            "w": 31,
+            "c": 149
+          },
+          {
+            "timeKey": "09:25",
+            "w": 9,
+            "c": 45
+          }
+        ],
+        "id": 339
+      },
+      {
+        "date": "2025-09-20",
+        "filePath": "Personal/Learning/Blender.md",
+        "wordCountStart": 216,
+        "charCountStart": 1152,
+        "changes": [
+          {
+            "timeKey": "18:05",
+            "w": 7,
+            "c": 41
+          },
+          {
+            "timeKey": "18:15",
+            "w": 8,
+            "c": 42
+          },
+          {
+            "timeKey": "18:20",
+            "w": 2,
+            "c": 15
+          }
+        ],
+        "id": 340
+      },
+      {
+        "date": "2025-09-21",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 459,
+        "charCountStart": 3414,
+        "changes": [
+          {
+            "timeKey": "19:00",
+            "w": 4,
+            "c": 35
+          }
+        ],
+        "id": 341
+      },
+      {
+        "date": "2025-09-21",
+        "filePath": "Personal/Learning/Blender.md",
+        "wordCountStart": 233,
+        "charCountStart": 1250,
+        "changes": [],
+        "id": 342
+      },
+      {
+        "date": "2025-09-21",
+        "filePath": "Journal/2025/09/Sep 21.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "19:00",
+            "w": 178,
+            "c": 831
+          },
+          {
+            "timeKey": "19:05",
+            "w": 2,
+            "c": 15
+          }
+        ],
+        "id": 343
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 463,
+        "charCountStart": 3449,
+        "changes": [
+          {
+            "timeKey": "20:25",
+            "w": 3,
+            "c": 31
+          }
+        ],
+        "id": 344
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "Journal/2025/09/Sep 21.md",
+        "wordCountStart": 277,
+        "charCountStart": 1504,
+        "changes": [],
+        "id": 345
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "Journal/2025/09/Sep 22.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "20:30",
+            "w": 55,
+            "c": 269
+          }
+        ],
+        "id": 346
+      },
+      {
+        "date": "2025-09-23",
+        "filePath": "Journal/2025/09/Sep 23.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "08:10",
+            "w": 2,
+            "c": 12
+          }
+        ],
+        "id": 347
+      },
+      {
+        "date": "2025-09-23",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 466,
+        "charCountStart": 3480,
+        "changes": [
+          {
+            "timeKey": "08:10",
+            "w": 5,
+            "c": 38
+          }
+        ],
+        "id": 348
+      },
+      {
+        "date": "2025-09-24",
+        "filePath": "Personal/Learning/Blender.md",
+        "wordCountStart": 233,
+        "charCountStart": 1250,
+        "changes": [
+          {
+            "timeKey": "07:35",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 350
+      },
+      {
+        "date": "2025-09-24",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 471,
+        "charCountStart": 3518,
+        "changes": [
+          {
+            "timeKey": "07:35",
+            "w": 15,
+            "c": 83
+          }
+        ],
+        "id": 351
+      },
+      {
+        "date": "2025-09-24",
+        "filePath": "Journal/2025/09/Sep 23.md",
+        "wordCountStart": 99,
+        "charCountStart": 670,
+        "changes": [],
+        "id": 352
+      },
+      {
+        "date": "2025-09-24",
+        "filePath": "Journal/2025/09/Sep 24.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "07:35",
+            "w": 80,
+            "c": 389
+          }
+        ],
+        "id": 353
+      },
+      {
+        "date": "2025-09-25",
+        "filePath": "Personal/Learning/Blender.md",
+        "wordCountStart": 233,
+        "charCountStart": 1250,
+        "changes": [
+          {
+            "timeKey": "08:10",
+            "w": 6,
+            "c": 31
+          },
+          {
+            "timeKey": "08:15",
+            "w": 8,
+            "c": 52
+          },
+          {
+            "timeKey": "08:25",
+            "w": 7,
+            "c": 36
+          },
+          {
+            "timeKey": "08:30",
+            "w": 0,
+            "c": -1
+          }
+        ],
+        "id": 354
+      },
+      {
+        "date": "2025-09-25",
+        "filePath": "Journal/2025/09/Sep 24.md",
+        "wordCountStart": 177,
+        "charCountStart": 1047,
+        "changes": [],
+        "id": 355
+      },
+      {
+        "date": "2025-09-25",
+        "filePath": "Journal/2025/09/Sep 25.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": 43,
+            "c": 213
+          },
+          {
+            "timeKey": "09:25",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 356
+      },
+      {
+        "date": "2025-09-25",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 486,
+        "charCountStart": 3601,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": 3,
+            "c": 26
+          }
+        ],
+        "id": 357
+      },
+      {
+        "date": "2025-09-26",
+        "filePath": "Journal/2025/09/Sep 26.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "12:30",
+            "w": 23,
+            "c": 128
+          },
+          {
+            "timeKey": "15:20",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 358
+      },
+      {
+        "date": "2025-09-26",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 489,
+        "charCountStart": 3627,
+        "changes": [
+          {
+            "timeKey": "12:30",
+            "w": 4,
+            "c": 28
+          }
+        ],
+        "id": 359
+      },
+      {
+        "date": "2025-09-26",
+        "filePath": "Personal/Learning/Blender.md",
+        "wordCountStart": 271,
+        "charCountStart": 1463,
+        "changes": [],
+        "id": 360
+      },
+      {
+        "date": "2025-09-26",
+        "filePath": "Personal/Learning/Blender Course.md",
+        "wordCountStart": 7,
+        "charCountStart": 53,
+        "changes": [
+          {
+            "timeKey": "16:05",
+            "w": -7,
+            "c": -53
+          }
+        ],
+        "id": 361
+      },
+      {
+        "date": "2025-09-26",
+        "filePath": "Personal/Uncle Zuke - Grave.md",
+        "wordCountStart": 18,
+        "charCountStart": 109,
+        "changes": [],
+        "id": 362
+      },
+      {
+        "date": "2025-09-26",
+        "filePath": "Personal/Unity.md",
+        "wordCountStart": 31,
+        "charCountStart": 199,
+        "changes": [],
+        "id": 363
+      },
+      {
+        "date": "2025-09-26",
+        "filePath": "Personal/Jon Money.md",
+        "wordCountStart": 3,
+        "charCountStart": 22,
+        "changes": [],
+        "id": 364
+      },
+      {
+        "date": "2025-09-27",
+        "filePath": "Personal/Household/Add Outlet Insulation.md",
+        "wordCountStart": 22,
+        "charCountStart": 152,
+        "changes": [],
+        "id": 365
+      },
+      {
+        "date": "2025-09-27",
+        "filePath": "Personal/Household/Basement Setup.md",
+        "wordCountStart": 155,
+        "charCountStart": 868,
+        "changes": [],
+        "id": 366
+      },
+      {
+        "date": "2025-09-27",
+        "filePath": "Personal/Household/Breakers.md",
+        "wordCountStart": 7,
+        "charCountStart": 44,
+        "changes": [],
+        "id": 367
+      },
+      {
+        "date": "2025-09-27",
+        "filePath": "Personal/Household/Hobby Stuff.md",
+        "wordCountStart": 61,
+        "charCountStart": 421,
+        "changes": [],
+        "id": 368
+      },
+      {
+        "date": "2025-09-27",
+        "filePath": "Personal/Household/Heater Covers.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 369
+      },
+      {
+        "date": "2025-09-27",
+        "filePath": "Personal/Household/Shed Setup.md",
+        "wordCountStart": 34,
+        "charCountStart": 193,
+        "changes": [],
+        "id": 370
+      },
+      {
+        "date": "2025-09-27",
+        "filePath": "Personal/Household/Stuff to get done.md",
+        "wordCountStart": 171,
+        "charCountStart": 985,
+        "changes": [
+          {
+            "timeKey": "09:45",
+            "w": 6,
+            "c": 33
+          },
+          {
+            "timeKey": "09:50",
+            "w": 1,
+            "c": 14
+          },
+          {
+            "timeKey": "09:55",
+            "w": -2,
+            "c": -13
+          }
+        ],
+        "id": 371
+      },
+      {
+        "date": "2025-09-27",
+        "filePath": "Personal/Learning/Blender.md",
+        "wordCountStart": 271,
+        "charCountStart": 1463,
+        "changes": [
+          {
+            "timeKey": "10:00",
+            "w": 10,
+            "c": 52
+          }
+        ],
+        "id": 372
+      },
+      {
+        "date": "2025-09-27",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 493,
+        "charCountStart": 3655,
+        "changes": [
+          {
+            "timeKey": "10:00",
+            "w": 5,
+            "c": 35
+          }
+        ],
+        "id": 373
+      },
+      {
+        "date": "2025-09-27",
+        "filePath": "Journal/2025/09/Sep 27.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "10:05",
+            "w": 17,
+            "c": 100
+          }
+        ],
+        "id": 374
+      },
+      {
+        "date": "2025-09-28",
+        "filePath": "Journal/2025/09/Sep 28.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "11:50",
+            "w": 9,
+            "c": 52
+          },
+          {
+            "timeKey": "11:55",
+            "w": 18,
+            "c": 108
+          }
+        ],
+        "id": 375
+      },
+      {
+        "date": "2025-09-28",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 498,
+        "charCountStart": 3690,
+        "changes": [
+          {
+            "timeKey": "11:50",
+            "w": 7,
+            "c": 49
+          }
+        ],
+        "id": 376
+      },
+      {
+        "date": "2025-09-28",
+        "filePath": "Personal/Financial Plan.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:25",
+            "w": 91,
+            "c": 437
+          },
+          {
+            "timeKey": "16:30",
+            "w": 94,
+            "c": 524
+          },
+          {
+            "timeKey": "16:35",
+            "w": 15,
+            "c": 79
+          }
+        ],
+        "id": 377
+      },
+      {
+        "date": "2025-09-28",
+        "filePath": "Personal/Kickstart Stuff/Kickstart Stuff.md",
+        "wordCountStart": 49,
+        "charCountStart": 349,
+        "changes": [],
+        "id": 378
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Journal/2025/09/Sep 29.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "07:50",
+            "w": 22,
+            "c": 114
+          }
+        ],
+        "id": 379
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 505,
+        "charCountStart": 3739,
+        "changes": [
+          {
+            "timeKey": "07:50",
+            "w": 4,
+            "c": 34
+          }
+        ],
+        "id": 380
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Personal/Blender.md",
+        "wordCountStart": 207,
+        "charCountStart": 1105,
+        "changes": [],
+        "id": 381
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Personal/Blender Course.md",
+        "wordCountStart": 7,
+        "charCountStart": 53,
+        "changes": [],
+        "id": 382
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Personal/Critter Care.md",
+        "wordCountStart": 113,
+        "charCountStart": 720,
+        "changes": [
+          {
+            "timeKey": "19:15",
+            "w": -113,
+            "c": -720
+          }
+        ],
+        "id": 383
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Personal/To Pack.md",
+        "wordCountStart": 60,
+        "charCountStart": 364,
+        "changes": [],
+        "id": 384
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Personal/Technical stuff to try.md",
+        "wordCountStart": 60,
+        "charCountStart": 342,
+        "changes": [],
+        "id": 385
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Personal/Task Management.md",
+        "wordCountStart": 169,
+        "charCountStart": 1240,
+        "changes": [],
+        "id": 386
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Personal/Task List.md",
+        "wordCountStart": 32,
+        "charCountStart": 206,
+        "changes": [],
+        "id": 387
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Personal/New Backup Drive.md",
+        "wordCountStart": 46,
+        "charCountStart": 290,
+        "changes": [
+          {
+            "timeKey": "19:20",
+            "w": -46,
+            "c": -290
+          }
+        ],
+        "id": 388
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Personal/Jon Money.md",
+        "wordCountStart": 3,
+        "charCountStart": 22,
+        "changes": [],
+        "id": 389
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Personal/Education Path.md",
+        "wordCountStart": 59,
+        "charCountStart": 321,
+        "changes": [
+          {
+            "timeKey": "19:20",
+            "w": -53,
+            "c": -266
+          }
+        ],
+        "id": 390
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Personal/Python/100 Days of Pytthon/055 - Intermediate HTML - URL Parsing in Flask..md",
+        "wordCountStart": 171,
+        "charCountStart": 1164,
+        "changes": [
+          {
+            "timeKey": "19:20",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 391
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Personal/Python/100 Days of Pytthon/Python stuff.md",
+        "wordCountStart": 6,
+        "charCountStart": 44,
+        "changes": [],
+        "id": 392
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Personal/Python/100 Days of Pytthon/000 - Progress.md",
+        "wordCountStart": 297,
+        "charCountStart": 1865,
+        "changes": [],
+        "id": 393
+      },
+      {
+        "date": "2025-09-29",
+        "filePath": "Personal/Python/100 Days of Pytthon/053 - Capstone - Scraping Data for Apartment Listings..md",
+        "wordCountStart": 456,
+        "charCountStart": 3430,
+        "changes": [],
+        "id": 394
+      },
+      {
+        "date": "2025-09-30",
+        "filePath": "Journal/2025/09/Sep 30.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "08:50",
+            "w": 87,
+            "c": 442
+          }
+        ],
+        "id": 395
+      },
+      {
+        "date": "2025-09-30",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 509,
+        "charCountStart": 3773,
+        "changes": [
+          {
+            "timeKey": "08:50",
+            "w": 5,
+            "c": 36
+          }
+        ],
+        "id": 396
+      },
+      {
+        "date": "2025-09-30",
+        "filePath": "Personal/Python/100 Days of Pytthon/053 - Capstone - Scraping Data for Apartment Listings..md",
+        "wordCountStart": 456,
+        "charCountStart": 3430,
+        "changes": [],
+        "id": 397
+      },
+      {
+        "date": "2025-09-30",
+        "filePath": "Personal/Kickstart Stuff/Kickstart Stuff.md",
+        "wordCountStart": 49,
+        "charCountStart": 349,
+        "changes": [],
+        "id": 398
+      },
+      {
+        "date": "2025-09-30",
+        "filePath": "Personal/Learning/Blender.md",
+        "wordCountStart": 281,
+        "charCountStart": 1515,
+        "changes": [],
+        "id": 399
+      },
+      {
+        "date": "2025-09-30",
+        "filePath": "Personal/Household/Stuff to get done.md",
+        "wordCountStart": 176,
+        "charCountStart": 1019,
+        "changes": [],
+        "id": 400
+      },
+      {
+        "date": "2025-10-01",
+        "filePath": "Personal/Learning/Blender.md",
+        "wordCountStart": 281,
+        "charCountStart": 1515,
+        "changes": [
+          {
+            "timeKey": "08:10",
+            "w": 3,
+            "c": 22
+          }
+        ],
+        "id": 401
+      },
+      {
+        "date": "2025-10-01",
+        "filePath": "Journal/2025/10/Oct 01.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": 13,
+            "c": 65
+          }
+        ],
+        "id": 402
+      },
+      {
+        "date": "2025-10-01",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 514,
+        "charCountStart": 3809,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": 6,
+            "c": 42
+          }
+        ],
+        "id": 403
+      },
+      {
+        "date": "2025-10-01",
+        "filePath": "Personal/Technical stuff to try.md",
+        "wordCountStart": 60,
+        "charCountStart": 342,
+        "changes": [],
+        "id": 404
+      },
+      {
+        "date": "2025-10-01",
+        "filePath": "Personal/Task Management.md",
+        "wordCountStart": 169,
+        "charCountStart": 1240,
+        "changes": [],
+        "id": 405
+      },
+      {
+        "date": "2025-10-01",
+        "filePath": "Personal/Task List.md",
+        "wordCountStart": 32,
+        "charCountStart": 206,
+        "changes": [],
+        "id": 406
+      },
+      {
+        "date": "2025-10-01",
+        "filePath": "Personal/Finance & Age Goals/Financial Goals.md",
+        "wordCountStart": 24,
+        "charCountStart": 86,
+        "changes": [],
+        "id": 407
+      },
+      {
+        "date": "2025-10-01",
+        "filePath": "Personal/Finance & Age Goals/For the kids.md",
+        "wordCountStart": 407,
+        "charCountStart": 2440,
+        "changes": [],
+        "id": 408
+      },
+      {
+        "date": "2025-10-01",
+        "filePath": "Personal/Education Path.md",
+        "wordCountStart": 6,
+        "charCountStart": 55,
+        "changes": [],
+        "id": 409
+      },
+      {
+        "date": "2025-10-01",
+        "filePath": "Personal/Jon Money.md",
+        "wordCountStart": 3,
+        "charCountStart": 22,
+        "changes": [],
+        "id": 410
+      },
+      {
+        "date": "2025-10-01",
+        "filePath": "Personal/Household/Stuff to get done.md",
+        "wordCountStart": 176,
+        "charCountStart": 1019,
+        "changes": [],
+        "id": 411
+      },
+      {
+        "date": "2025-10-01",
+        "filePath": "Personal/Household/Shed Setup.md",
+        "wordCountStart": 34,
+        "charCountStart": 193,
+        "changes": [],
+        "id": 412
+      },
+      {
+        "date": "2025-10-01",
+        "filePath": "Personal/Household/Hobby Stuff.md",
+        "wordCountStart": 61,
+        "charCountStart": 421,
+        "changes": [],
+        "id": 413
+      },
+      {
+        "date": "2025-10-01",
+        "filePath": "Personal/Household/Heater Covers.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 414
+      },
+      {
+        "date": "2025-10-01",
+        "filePath": "Personal/Household/Breakers.md",
+        "wordCountStart": 7,
+        "charCountStart": 44,
+        "changes": [],
+        "id": 415
+      },
+      {
+        "date": "2025-10-01",
+        "filePath": "Personal/Household/Add Outlet Insulation.md",
+        "wordCountStart": 22,
+        "charCountStart": 152,
+        "changes": [],
+        "id": 416
+      },
+      {
+        "date": "2025-10-01",
+        "filePath": "Personal/Household/Basement Setup.md",
+        "wordCountStart": 155,
+        "charCountStart": 868,
+        "changes": [
+          {
+            "timeKey": "09:35",
+            "w": -1,
+            "c": -5
+          }
+        ],
+        "id": 417
+      },
+      {
+        "date": "2025-10-01",
+        "filePath": "Personal/Financial Plan.md",
+        "wordCountStart": 200,
+        "charCountStart": 1040,
+        "changes": [
+          {
+            "timeKey": "09:55",
+            "w": 19,
+            "c": 87
+          },
+          {
+            "timeKey": "10:00",
+            "w": 32,
+            "c": 210
+          },
+          {
+            "timeKey": "10:10",
+            "w": 15,
+            "c": 97
+          },
+          {
+            "timeKey": "12:45",
+            "w": 0,
+            "c": 2
+          }
+        ],
+        "id": 423
+      },
+      {
+        "date": "2025-10-02",
+        "filePath": "Journal/2025/10/Oct 01.md",
+        "wordCountStart": 110,
+        "charCountStart": 723,
+        "changes": [],
+        "id": 424
+      },
+      {
+        "date": "2025-10-02",
+        "filePath": "Journal/2025/10/Oct 02.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "07:55",
+            "w": 35,
+            "c": 185
+          }
+        ],
+        "id": 425
+      },
+      {
+        "date": "2025-10-02",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 520,
+        "charCountStart": 3851,
+        "changes": [
+          {
+            "timeKey": "08:00",
+            "w": 4,
+            "c": 39
+          }
+        ],
+        "id": 426
+      },
+      {
+        "date": "2025-10-03",
+        "filePath": "Personal/Kickstart Stuff/Kickstart Stuff.md",
+        "wordCountStart": 49,
+        "charCountStart": 349,
+        "changes": [
+          {
+            "timeKey": "10:25",
+            "w": -1,
+            "c": -7
+          }
+        ],
+        "id": 427
+      },
+      {
+        "date": "2025-10-03",
+        "filePath": "Journal/2025/10/Oct 03.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "10:30",
+            "w": 46,
+            "c": 218
+          },
+          {
+            "timeKey": "10:35",
+            "w": 2,
+            "c": 12
+          }
+        ],
+        "id": 428
+      },
+      {
+        "date": "2025-10-03",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 524,
+        "charCountStart": 3890,
+        "changes": [
+          {
+            "timeKey": "10:35",
+            "w": 6,
+            "c": 50
+          }
+        ],
+        "id": 429
+      },
+      {
+        "date": "2025-10-03",
+        "filePath": "Personal/Learning/Blender.md",
+        "wordCountStart": 284,
+        "charCountStart": 1537,
+        "changes": [],
+        "id": 430
+      },
+      {
+        "date": "2025-10-03",
+        "filePath": "Personal/Financial Plan.md",
+        "wordCountStart": 266,
+        "charCountStart": 1436,
+        "changes": [
+          {
+            "timeKey": "10:35",
+            "w": 4,
+            "c": 23
+          }
+        ],
+        "id": 431
+      },
+      {
+        "date": "2025-10-04",
+        "filePath": "Personal/Learning/Blender.md",
+        "wordCountStart": 284,
+        "charCountStart": 1537,
+        "changes": [
+          {
+            "timeKey": "12:55",
+            "w": 5,
+            "c": 45
+          },
+          {
+            "timeKey": "13:00",
+            "w": 17,
+            "c": 72
+          },
+          {
+            "timeKey": "13:10",
+            "w": 16,
+            "c": 80
+          }
+        ],
+        "id": 432
+      },
+      {
+        "date": "2025-10-04",
+        "filePath": "Journal/2025/10/Oct 03.md",
+        "wordCountStart": 145,
+        "charCountStart": 888,
+        "changes": [],
+        "id": 433
+      },
+      {
+        "date": "2025-10-04",
+        "filePath": "Journal/2025/10/Oct 04.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "13:15",
+            "w": 30,
+            "c": 167
+          }
+        ],
+        "id": 434
+      },
+      {
+        "date": "2025-10-04",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 530,
+        "charCountStart": 3940,
+        "changes": [
+          {
+            "timeKey": "13:15",
+            "w": 3,
+            "c": 34
+          }
+        ],
+        "id": 435
+      },
+      {
+        "date": "2025-10-04",
+        "filePath": "Personal/Household/Bathroom To-Dos.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:25",
+            "w": 29,
+            "c": 203
+          },
+          {
+            "timeKey": "13:30",
+            "w": 2,
+            "c": 21
+          }
+        ],
+        "id": 436
+      },
+      {
+        "date": "2025-10-05",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 533,
+        "charCountStart": 3974,
+        "changes": [
+          {
+            "timeKey": "09:55",
+            "w": 1,
+            "c": 5
+          },
+          {
+            "timeKey": "10:00",
+            "w": 27,
+            "c": 155
+          }
+        ],
+        "id": 437
+      },
+      {
+        "date": "2025-10-05",
+        "filePath": "Journal/2025/10/Oct 05.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "10:00",
+            "w": 75,
+            "c": 359
+          }
+        ],
+        "id": 438
+      },
+      {
+        "date": "2025-10-06",
+        "filePath": "Journal/2025/10/Oct 06.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "06:55",
+            "w": 109,
+            "c": 505
+          }
+        ],
+        "id": 439
+      },
+      {
+        "date": "2025-10-06",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 561,
+        "charCountStart": 4134,
+        "changes": [
+          {
+            "timeKey": "06:55",
+            "w": 6,
+            "c": 48
+          }
+        ],
+        "id": 440
+      },
+      {
+        "date": "2025-10-07",
+        "filePath": "Personal/Blender Course.md",
+        "wordCountStart": 7,
+        "charCountStart": 53,
+        "changes": [
+          {
+            "timeKey": "08:05",
+            "w": 6,
+            "c": 48
+          }
+        ],
+        "id": 441
+      },
+      {
+        "date": "2025-10-07",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 567,
+        "charCountStart": 4182,
+        "changes": [
+          {
+            "timeKey": "08:10",
+            "w": 10,
+            "c": 91
+          }
+        ],
+        "id": 442
+      },
+      {
+        "date": "2025-10-07",
+        "filePath": "Journal/2025/10/Oct 06.md",
+        "wordCountStart": 206,
+        "charCountStart": 1163,
+        "changes": [],
+        "id": 443
+      },
+      {
+        "date": "2025-10-07",
+        "filePath": "Journal/2025/10/Oct 07.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "08:10",
+            "w": 47,
+            "c": 218
+          },
+          {
+            "timeKey": "08:15",
+            "w": 10,
+            "c": 49
+          }
+        ],
+        "id": 444
+      },
+      {
+        "date": "2025-10-08",
+        "filePath": "Journal/2025/10/Oct 08.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "07:35",
+            "w": 32,
+            "c": 158
+          }
+        ],
+        "id": 445
+      },
+      {
+        "date": "2025-10-08",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 577,
+        "charCountStart": 4273,
+        "changes": [
+          {
+            "timeKey": "07:35",
+            "w": 4,
+            "c": 26
+          }
+        ],
+        "id": 446
+      },
+      {
+        "date": "2025-10-09",
+        "filePath": "Journal/2025/10/Oct 09.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "07:50",
+            "w": 24,
+            "c": 119
+          },
+          {
+            "timeKey": "07:55",
+            "w": 2,
+            "c": 12
+          }
+        ],
+        "id": 447
+      },
+      {
+        "date": "2025-10-09",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 581,
+        "charCountStart": 4299,
+        "changes": [
+          {
+            "timeKey": "07:50",
+            "w": 5,
+            "c": 40
+          }
+        ],
+        "id": 448
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "Journal/2025/10/Oct 10.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "12:20",
+            "w": 29,
+            "c": 149
+          }
+        ],
+        "id": 449
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 586,
+        "charCountStart": 4339,
+        "changes": [
+          {
+            "timeKey": "12:20",
+            "w": 18,
+            "c": 107
+          }
+        ],
+        "id": 450
+      },
+      {
+        "date": "2025-10-10",
+        "filePath": "Personal/Kickstart Stuff/Kickstart Stuff.md",
+        "wordCountStart": 48,
+        "charCountStart": 342,
+        "changes": [],
+        "id": 451
+      },
+      {
+        "date": "2025-10-11",
+        "filePath": "Personal/Blender Course.md",
+        "wordCountStart": 13,
+        "charCountStart": 101,
+        "changes": [],
+        "id": 452
+      },
+      {
+        "date": "2025-10-11",
+        "filePath": "Journal/2025/10/Oct 10.md",
+        "wordCountStart": 126,
+        "charCountStart": 807,
+        "changes": [],
+        "id": 453
+      },
+      {
+        "date": "2025-10-11",
+        "filePath": "Journal/2025/10/Oct 11.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "08:55",
+            "w": 78,
+            "c": 383
+          },
+          {
+            "timeKey": "09:00",
+            "w": 21,
+            "c": 112
+          }
+        ],
+        "id": 454
+      },
+      {
+        "date": "2025-10-11",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 604,
+        "charCountStart": 4446,
+        "changes": [
+          {
+            "timeKey": "09:00",
+            "w": 3,
+            "c": 23
+          },
+          {
+            "timeKey": "12:45",
+            "w": 1,
+            "c": 4
+          }
+        ],
+        "id": 455
+      },
+      {
+        "date": "2025-10-12",
+        "filePath": "Journal/2025/10/Oct 11.md",
+        "wordCountStart": 196,
+        "charCountStart": 1153,
+        "changes": [],
+        "id": 456
+      },
+      {
+        "date": "2025-10-12",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 608,
+        "charCountStart": 4473,
+        "changes": [
+          {
+            "timeKey": "12:45",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "12:50",
+            "w": 6,
+            "c": 53
+          }
+        ],
+        "id": 457
+      },
+      {
+        "date": "2025-10-12",
+        "filePath": "Journal/2025/10/Oct 12.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "12:45",
+            "w": 202,
+            "c": 980
+          },
+          {
+            "timeKey": "12:50",
+            "w": 115,
+            "c": 581
+          }
+        ],
+        "id": 458
+      },
+      {
+        "date": "2025-10-13",
+        "filePath": "Journal/2025/10/Oct 13.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "16:05",
+            "w": 22,
+            "c": 108
+          }
+        ],
+        "id": 461
+      },
+      {
+        "date": "2025-10-13",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 614,
+        "charCountStart": 4526,
+        "changes": [
+          {
+            "timeKey": "08:30",
+            "w": 4,
+            "c": 30
+          },
+          {
+            "timeKey": "16:05",
+            "w": 12,
+            "c": 79
+          },
+          {
+            "timeKey": "16:15",
+            "w": 41,
+            "c": 198
+          },
+          {
+            "timeKey": "19:00",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 462
+      },
+      {
+        "date": "2025-10-14",
+        "filePath": "Journal/2025/10/Oct 13.md",
+        "wordCountStart": 119,
+        "charCountStart": 766,
+        "changes": [
+          {
+            "timeKey": "08:30",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 463
+      },
+      {
+        "date": "2025-10-14",
+        "filePath": "Journal/2025/10/Oct 14.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "08:30",
+            "w": 132,
+            "c": 676
+          }
+        ],
+        "id": 464
+      },
+      {
+        "date": "2025-10-15",
+        "filePath": "Journal/2025/10/Oct 14.md",
+        "wordCountStart": 229,
+        "charCountStart": 1334,
+        "changes": [],
+        "id": 465
+      },
+      {
+        "date": "2025-10-15",
+        "filePath": "Journal/2025/10/Oct 15.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "08:20",
+            "w": 80,
+            "c": 391
+          },
+          {
+            "timeKey": "19:55",
+            "w": 45,
+            "c": 220
+          }
+        ],
+        "id": 466
+      },
+      {
+        "date": "2025-10-15",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 671,
+        "charCountStart": 4834,
+        "changes": [
+          {
+            "timeKey": "08:20",
+            "w": 9,
+            "c": 70
+          }
+        ],
+        "id": 467
+      },
+      {
+        "date": "2025-10-16",
+        "filePath": "Journal/2025/10/Oct 16.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "07:30",
+            "w": 109,
+            "c": 544
+          },
+          {
+            "timeKey": "07:35",
+            "w": 11,
+            "c": 60
+          },
+          {
+            "timeKey": "07:45",
+            "w": 14,
+            "c": 72
+          }
+        ],
+        "id": 468
+      },
+      {
+        "date": "2025-10-16",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 680,
+        "charCountStart": 4904,
+        "changes": [
+          {
+            "timeKey": "07:35",
+            "w": 4,
+            "c": 30
+          }
+        ],
+        "id": 469
+      },
+      {
+        "date": "2025-10-17",
+        "filePath": "Journal/2025/10/Oct 16.md",
+        "wordCountStart": 231,
+        "charCountStart": 1334,
+        "changes": [],
+        "id": 470
+      },
+      {
+        "date": "2025-10-17",
+        "filePath": "Personal/To Save Money.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "09:55",
+            "w": 24,
+            "c": 147
+          }
+        ],
+        "id": 471
+      },
+      {
+        "date": "2025-10-17",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 684,
+        "charCountStart": 4934,
+        "changes": [
+          {
+            "timeKey": "16:30",
+            "w": 7,
+            "c": 47
+          }
+        ],
+        "id": 472
+      },
+      {
+        "date": "2025-10-17",
+        "filePath": "Personal/Kickstart Stuff/Kickstart Stuff.md",
+        "wordCountStart": 48,
+        "charCountStart": 342,
+        "changes": [],
+        "id": 473
+      },
+      {
+        "date": "2025-10-17",
+        "filePath": "Personal/Learning/Blender.md",
+        "wordCountStart": 322,
+        "charCountStart": 1734,
+        "changes": [],
+        "id": 474
+      },
+      {
+        "date": "2025-10-17",
+        "filePath": "Journal/2025/10/Oct 17.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "16:30",
+            "w": 41,
+            "c": 211
+          }
+        ],
+        "id": 475
+      },
+      {
+        "date": "2025-10-18",
+        "filePath": "Personal/Projects/Coffee House - Still to do.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:45",
+            "w": 78,
+            "c": 402
+          },
+          {
+            "timeKey": "10:50",
+            "w": 27,
+            "c": 138
+          },
+          {
+            "timeKey": "10:55",
+            "w": 8,
+            "c": 53
+          }
+        ],
+        "id": 476
+      },
+      {
+        "date": "2025-10-18",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 691,
+        "charCountStart": 4981,
+        "changes": [
+          {
+            "timeKey": "16:35",
+            "w": 10,
+            "c": 76
+          }
+        ],
+        "id": 477
+      },
+      {
+        "date": "2025-10-18",
+        "filePath": "Journal/2025/10/Oct 18.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "16:35",
+            "w": 133,
+            "c": 670
+          },
+          {
+            "timeKey": "18:20",
+            "w": 22,
+            "c": 107
+          }
+        ],
+        "id": 478
+      },
+      {
+        "date": "2025-10-18",
+        "filePath": "Personal/Financial Plan.md",
+        "wordCountStart": 270,
+        "charCountStart": 1459,
+        "changes": [
+          {
+            "timeKey": "16:40",
+            "w": 38,
+            "c": 172
+          },
+          {
+            "timeKey": "16:45",
+            "w": 21,
+            "c": 113
+          },
+          {
+            "timeKey": "16:55",
+            "w": -3,
+            "c": -14
+          },
+          {
+            "timeKey": "18:15",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 479
+      },
+      {
+        "date": "2025-10-19",
+        "filePath": "Journal/2025/10/Oct 19.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "12:15",
+            "w": 78,
+            "c": 386
+          },
+          {
+            "timeKey": "16:15",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 480
+      },
+      {
+        "date": "2025-10-19",
+        "filePath": "Personal/Projects/Coffee House - Still to do.md",
+        "wordCountStart": 113,
+        "charCountStart": 593,
+        "changes": [],
+        "id": 481
+      },
+      {
+        "date": "2025-10-19",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 701,
+        "charCountStart": 5057,
+        "changes": [
+          {
+            "timeKey": "12:15",
+            "w": 6,
+            "c": 50
+          }
+        ],
+        "id": 482
+      },
+      {
+        "date": "2025-10-19",
+        "filePath": "Journal/2025/08/Aug 13.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "12:15",
+            "w": -8,
+            "c": -55
+          }
+        ],
+        "id": 483
+      },
+      {
+        "date": "2025-10-19",
+        "filePath": "Journal/2025/08/Aug 12.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "12:15",
+            "w": -8,
+            "c": -56
+          }
+        ],
+        "id": 484
+      },
+      {
+        "date": "2025-10-19",
+        "filePath": "Personal/Household/Basement and Shelving.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:15",
+            "w": 8,
+            "c": 45
+          },
+          {
+            "timeKey": "16:30",
+            "w": 29,
+            "c": 138
+          },
+          {
+            "timeKey": "16:35",
+            "w": 1,
+            "c": 4
+          }
+        ],
+        "id": 485
+      },
+      {
+        "date": "2025-10-19",
+        "filePath": "Personal/Household/Basement Setup.md",
+        "wordCountStart": 154,
+        "charCountStart": 863,
+        "changes": [
+          {
+            "timeKey": "16:35",
+            "w": 31,
+            "c": 189
+          }
+        ],
+        "id": 486
+      },
+      {
+        "date": "2025-10-20",
+        "filePath": "Journal/2025/10/Oct 20.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "19:50",
+            "w": 40,
+            "c": 184
+          }
+        ],
+        "id": 487
+      },
+      {
+        "date": "2025-10-20",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 707,
+        "charCountStart": 5107,
+        "changes": [
+          {
+            "timeKey": "19:50",
+            "w": 4,
+            "c": 27
+          }
+        ],
+        "id": 488
+      },
+      {
+        "date": "2025-10-21",
+        "filePath": "Journal/2025/10/Oct 20.md",
+        "wordCountStart": 137,
+        "charCountStart": 842,
+        "changes": [
+          {
+            "timeKey": "07:45",
+            "w": 2,
+            "c": 12
+          }
+        ],
+        "id": 489
+      },
+      {
+        "date": "2025-10-21",
+        "filePath": "Journal/2025/10/Oct 21.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "07:45",
+            "w": 27,
+            "c": 141
+          },
+          {
+            "timeKey": "20:00",
+            "w": 13,
+            "c": 60
+          },
+          {
+            "timeKey": "20:05",
+            "w": 73,
+            "c": 371
+          }
+        ],
+        "id": 490
+      },
+      {
+        "date": "2025-10-21",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 711,
+        "charCountStart": 5134,
+        "changes": [
+          {
+            "timeKey": "07:45",
+            "w": 9,
+            "c": 62
+          }
+        ],
+        "id": 491
+      },
+      {
+        "date": "2025-10-21",
+        "filePath": "Personal/Simple Blender Projects.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:45",
+            "w": 2,
+            "c": 16
+          },
+          {
+            "timeKey": "21:00",
+            "w": 1,
+            "c": 12
+          },
+          {
+            "timeKey": "21:05",
+            "w": 1,
+            "c": 7
+          }
+        ],
+        "id": 492
+      },
+      {
+        "date": "2025-10-22",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 720,
+        "charCountStart": 5196,
+        "changes": [
+          {
+            "timeKey": "10:45",
+            "w": 11,
+            "c": 76
+          }
+        ],
+        "id": 493
+      },
+      {
+        "date": "2025-10-22",
+        "filePath": "Personal/Simple Blender Projects.md",
+        "wordCountStart": 4,
+        "charCountStart": 35,
+        "changes": [],
+        "id": 494
+      },
+      {
+        "date": "2025-10-22",
+        "filePath": "Journal/2025/10/Oct 22.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "18:40",
+            "w": 61,
+            "c": 298
+          }
+        ],
+        "id": 495
+      },
+      {
+        "date": "2025-10-23",
+        "filePath": "Personal/Simple Blender Projects.md",
+        "wordCountStart": 4,
+        "charCountStart": 35,
+        "changes": [
+          {
+            "timeKey": "07:20",
+            "w": 7,
+            "c": 44
+          },
+          {
+            "timeKey": "19:30",
+            "w": 6,
+            "c": 39
+          }
+        ],
+        "id": 496
+      },
+      {
+        "date": "2025-10-23",
+        "filePath": "Journal/2025/10/Oct 22.md",
+        "wordCountStart": 158,
+        "charCountStart": 956,
+        "changes": [],
+        "id": 497
+      },
+      {
+        "date": "2025-10-23",
+        "filePath": "Journal/2025/10/Oct 23.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "20:05",
+            "w": 49,
+            "c": 276
+          }
+        ],
+        "id": 498
+      },
+      {
+        "date": "2025-10-23",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 731,
+        "charCountStart": 5272,
+        "changes": [
+          {
+            "timeKey": "20:05",
+            "w": 3,
+            "c": 31
+          }
+        ],
+        "id": 499
+      },
+      {
+        "date": "2025-10-23",
+        "filePath": "Personal/Projects/Coffee House - Still to do.md",
+        "wordCountStart": 113,
+        "charCountStart": 593,
+        "changes": [
+          {
+            "timeKey": "20:05",
+            "w": 0,
+            "c": 8
+          }
+        ],
+        "id": 500
+      },
+      {
+        "date": "2025-10-24",
+        "filePath": "Journal/2025/10/Oct 24.md",
+        "wordCountStart": 97,
+        "charCountStart": 658,
+        "changes": [
+          {
+            "timeKey": "10:15",
+            "w": 79,
+            "c": 382
+          }
+        ],
+        "id": 501
+      },
+      {
+        "date": "2025-10-24",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 734,
+        "charCountStart": 5303,
+        "changes": [
+          {
+            "timeKey": "10:15",
+            "w": 6,
+            "c": 37
+          }
+        ],
+        "id": 502
+      },
+      {
+        "date": "2025-10-24",
+        "filePath": "Personal/Kickstart Stuff/Kickstart Stuff.md",
+        "wordCountStart": 48,
+        "charCountStart": 342,
+        "changes": [],
+        "id": 503
+      },
+      {
+        "date": "2025-10-24",
+        "filePath": "Personal/Learning/Blender.md",
+        "wordCountStart": 322,
+        "charCountStart": 1734,
+        "changes": [],
+        "id": 504
+      },
+      {
+        "date": "2025-10-24",
+        "filePath": "Personal/Projects/Coffee House - Still to do.md",
+        "wordCountStart": 113,
+        "charCountStart": 601,
+        "changes": [],
+        "id": 505
+      },
+      {
+        "date": "2025-10-24",
+        "filePath": "Personal/Financial Plan.md",
+        "wordCountStart": 326,
+        "charCountStart": 1730,
+        "changes": [],
+        "id": 506
+      },
+      {
+        "date": "2025-10-25",
+        "filePath": "Journal/2025/10/Oct 24.md",
+        "wordCountStart": 176,
+        "charCountStart": 1040,
+        "changes": [
+          {
+            "timeKey": "21:05",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 507
+      },
+      {
+        "date": "2025-10-25",
+        "filePath": "Journal/2025/10/Oct 25.md",
+        "wordCountStart": 99,
+        "charCountStart": 674,
+        "changes": [
+          {
+            "timeKey": "21:05",
+            "w": 109,
+            "c": 533
+          },
+          {
+            "timeKey": "21:10",
+            "w": 77,
+            "c": 376
+          }
+        ],
+        "id": 508
+      },
+      {
+        "date": "2025-10-25",
+        "filePath": "Lists/Gratitude ( Newest first ).md",
+        "wordCountStart": 740,
+        "charCountStart": 5340,
+        "changes": [
+          {
+            "timeKey": "21:10",
+            "w": 11,
+            "c": 82
+          }
+        ],
+        "id": 509
+      }
+    ]
+  }
+}

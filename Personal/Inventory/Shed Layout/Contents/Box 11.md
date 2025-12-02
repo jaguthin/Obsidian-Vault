@@ -1,0 +1,12 @@
+- Clay
+- Sculpture Tools
+- Airbrush Cleaning Pots
+- Respirator
+- Light Bulb
+- Wooden Dowels
+- Wood Bits
+- Sponges
+- Palettes
+- Octo Glasses
+- Wooden Blocks
+- 

@@ -1,0 +1,4 @@
+- Prime in gray
+- 40% of teal?
+- Light blue dry brush on high spots
+- 

@@ -1,0 +1,4 @@
+- [ ] Pay off Maxima
+- [ ] Pay off Heloc
+- [ ] 401K to 250K
+- [ ] Freedom fund to 100K
