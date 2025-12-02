@@ -179,8 +179,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -266,8 +266,8 @@
             "state": {
               "type": "tenki",
               "state": {},
-              "icon": "sun",
-              "title": "Tenki"
+              "icon": "lucide-ghost",
+              "title": "tenki"
             }
           },
           {
@@ -276,12 +276,21 @@
             "state": {
               "type": "tenki",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "tenki"
+            }
+          },
+          {
+            "id": "da30f0951e2682aa",
+            "type": "leaf",
+            "state": {
+              "type": "tenki",
+              "state": {},
               "icon": "sun",
               "title": "Tenki"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       },
       {
         "id": "5cd2237920982eda",
@@ -313,19 +322,20 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "notion-like-tables:Create loom": false,
-      "rpg-manager:RPG Manager": false,
-      "widgets:Add widget": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "github-sync:Sync with Remote": false,
       "print:Print note": false,
-      "github-sync:Sync with Remote": false
+      "rpg-manager:RPG Manager": false,
+      "widgets:Add widget": false
     }
   },
-  "active": "a80877f84a8de27a",
+  "active": "bb776a84b0ece9e8",
   "lastOpenFiles": [
-    "Lists/Gratitude ( Newest first ).md",
+    "Untitled.md",
     "Journal/2025/12/Dec 02.md",
+    "Lists/Gratitude ( Newest first ).md",
     "Journal/2025/12/Dec 01.md",
     "Personal/PTO comparison.loom",
     "Configs/Looms/Jon Money.loom",
@@ -355,7 +365,6 @@
     "Journal/2025/11/Nov 19.md",
     "Journal/2025/11/Nov 18.md",
     "Journal/2025/11/Nov 17.md",
-    "Journal/2025/11/Nov 16.md",
     "Configs/Looms/Adventures.loom",
     "Journal/2025/11",
     "Journal/2025/12",
